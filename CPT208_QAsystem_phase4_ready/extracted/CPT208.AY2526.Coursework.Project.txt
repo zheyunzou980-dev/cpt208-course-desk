@@ -1,0 +1,455 @@
+
+
+--- PAGE 1 ---
+
+CPT208 Human-Centric Computing
+Coursework: Project
+Module Name: CPT208 Human-Centric Computing
+Module Leader: Dr Yue Li and Dr Teng Ma
+Deliverables and Due Dates: Poster Presentation 24 April, Week 8
+Portfolio, System & Video Demo 5 May, Week 10
+Marks: 40% of the module mark
+Learning Outcomes Addressed
+A. Apply a user-centered approach to interaction design, emphasizing the importance of
+supporting equality, diversity, and inclusion in technical work.
+B. Create, develop, and deploy interactive computing systems, incorporating legal, social,
+ethical, and professional considerations to achieve specific business objectives.
+C. Critically assess and evaluate the usability and user experience of interactive systems
+using established criteria.
+Submission Format
+- Only one submission is needed from each group.
+- Naming formats and examples:
+o CPT208_GroupA1-1_ProjectName_Poster.pdf
+o CPT208_GroupA1-1_ProjectName_Portfolio.zip
+o CPT208_GroupA1-1_ProjectName_DemoSystem.zip
+o CPT208_GroupA1-1_ProjectName_DemoVideo.mp4
+Artificial Intelligence Permissions
+For the Poster submission, students may make non-substantive use of AI. Students are
+permitted to use Generative AI tools specifically for visual asset generation and grammatical
+refinement.
+Permitted AI Uses for Posters
+- Image Generation: You may use AI to create illustrative backgrounds, icons, or
+conceptual visuals that help communicate your "Playful Experience".
+- Grammar Editing: You may use AI for minor tasks such as grammatical corrections or
+improving the clarity of your text.
+The use of AI tools beyond the scope outlined above would constitute a breach of the University
+Academic Integrity Policy and will result in penalties, which may include an overall mark of zero
+for the assignment and a formal notification of academic misconduct. If you are unsure on
+whether a specific use of AI is allowed or not, please consult the module leader.
+1
+
+
+--- PAGE 2 ---
+
+Strict Requirements
+- Non-Substantive Role: AI must not be used to define your project motivation, research
+findings, or core design logic. These must remain your group's original work.
+- Acknowledgment: Every AI-generated image must be accompanied by a small caption
+or acknowledgement (e.g., "Image generated via [Tool Name]").
+- Mandatory Citation: You must include a formal citation in the References section of
+your Process Portfolio.
+Citation Example
+In your reference list, please use the following format:
+[1] Gemini Nano Banana, version 1.0, accessed on 2026-02-24, available
+at [https://gemini.google.com](https://gemini.google.com/). Used for generating the
+conceptual hero image in the illustrative figure.
+For the Portfolio, System & Video Demo submissions, students may make substantive use
+of AI, including advanced AI integration to help you build functional web-based prototypes.
+However, the core design logic and the "human-centric" justification must be your own.
+Permitted AI Uses for System & Video
+- Vibe Coding & Assisted Scripting: You may use LLMs to generate code snippets,
+debug logic, or scaffold your web application.
+- Video Post-Production: You may use AI for generating voiceovers, cleaning audio, or
+assisting with video transitions to achieve a professional finish.
+The use of AI tools beyond the scope outlined above would constitute a breach of the University
+Academic Integrity Policy and will result in penalties, which may include an overall mark of zero
+for the assignment and a formal notification of academic misconduct. If you are unsure on
+whether a specific use of AI is allowed or not, please consult the module leader.
+Mandatory Requirements
+- Reflection in Portfolio: If you use "vibe coding" to build your system, you must include
+a "Technical Reflection" section in your Process Portfolio. You must explain:
+o What prompts were used to generate the core logic.
+o How you verified the code met your user requirements.
+o Any ethical considerations regarding AI-generated code (e.g., accessibility or
+bias).
+- Mandatory Citation: Every tool used must be documented in your portfolio's reference
+list.
+Citation Example
+In your portfolio's reference list, please use the following format:
+[1] Claude 3.5 Sonnet, v1.0, accessed on 2026-02-24, available
+at [https://claude.ai](https://claude.ai/). Used for refining the user persona descriptions
+and generating the initial storyboard script for the Video Demo.
+[2] Cursor, v0.40, accessed on 2026-02-24, available
+at [https://cursor.com](https://cursor.com/). Used for vibe coding the system's backend
+API and debugging the CSS layout for mobile responsiveness.
+2
+
+
+--- PAGE 3 ---
+
+Task Descriptions: Playful Experience Design
+Summary of Key Information
+Design Themes
+A. Digital Heritage & Play: Creating playful onsite experiences for Suzhou
+landmarks (e.g., Chang Gate or Maple Bridge).
+B. Social Connectivity: Tools to facilitate meaningful campus discussions or bridge
+the generation gap.
+C. Active Lifestyles: Gamified systems for runners, climbers, or gym-goers.
+Deliverables
+1. Poster Presentation (40%, Week 8): Presentation
+2. Process Portfolio, System & Video (60%, Week 10)
+o Portfolio: A hosted web page details the process (github.io).
+o System: A functional web-based prototype, ideally via a live URL.
+o Video: A 2-minute “CHI-style” teaser showcasing the user journey and
+interaction.
+Technical Constraints
+• Platform: Must be a Web App (ideally accessible via URL).
+• Tools: Use free-tier services only (e.g., Figma for UI, VS Code for dev, GitHub for
+hosting).
+• AI Policy: AI may be used for coding assistance or asset generation,
+but all design decisions and user research must be primary data collected by the
+group.
+Suggested Free Tools
+• Portfolio: GitHub Pages.
+• Design: Figma.
+• Development: VS Code, GitHub Desktop.
+• Web App Hosting: GitHub Pages or Vercel.
+• Video: CapCut.
+You will prepare and present your group project as a group of four. The grouping will open
+during the seminar in Week 1. If you have not registered for a group until the seminar of Week
+2, you will be allocated to a group.
+Once you have registered for a group and topic, the change of groups or topics is NOT
+ALLOWED. Please be careful with your selection and take responsibility for your group work.
+3
+
+
+--- PAGE 4 ---
+
+Design Themes & Topics
+Topic Stakeholders Device Good to Where
+Have
+A1 Suzhou Grand Visitors & Residents Mobile XR, GenAI, Onsite
+Cannel – Chang Location-
+based
+Gate 阊门
+A2 Suzhou Grand Visitors & Residents Mobile XR, GenAI, Onsite
+Cannel – Maple Location-
+based
+Bridge 枫桥
+A3 My Stories in Visitors (Content Mobile XR, GenAI, Hybrid
+Museums creator & Audience) Location-
+based
+B1 XJTLU Group XJTLU students & Mobile, PC GenAI Onsite
+Discussions Language and
+academic teachers
+B2 XJTLU Student XJTLU students & Mobile, PC GenAI Hybrid
+Development Development
+advisors
+B3 XJTLU Campus New students; Mobile XR, Onsite /
+Tour External visitors Location- Online
+based,
+Tangible
+B4 Relation between Parents & Children; Mobile XR, Hybrid
+Generations Grandparents & Tangible
+Children
+C1 Go Runners Runners & Activity Mobile, PC Wearable, Onsite
+organizers Location-
+based
+C2 Go Climbers Climbers & Coaches Mobile XR, Onsite
+Wearable,
+Location-
+based
+C3 Go Trainers Gym trainers & Mobile XR, Onsite
+Instructors; Other Wearable,
+sports players Location-
+based
+D Open topic
+You should research extensively (from both academic literatures and commercial products) on
+the given topic and consider the following:
+1. Who are the stakeholders / users of the system?
+2. What does the system allow users to do?
+3. Are there any issues with the existing system(s)?
+4. Are there any user requirements that are not supported with the existing system(s)?
+5. What are the design alternatives to solve the existing issues / fulfill user
+requirements?
+6. How can you make prototypes of the design alternatives?
+7. How can you evaluate your design?
+8. What are the implications of your design?
+4
+
+
+--- PAGE 5 ---
+
+Deliverables
+Throughout the semester, your will incrementally build up a process portfolio that records your
+design process. Below are some key milestones for submissions:
+Figure 1. Suggested project timeline showing the key milestone submissions.
+(Image generated by Gemini with Nano Banana Pro)
+To clarify & approach the tasks,
+• Portfolio is a detailed documentation of the design process, updated throughout the
+semester.
+o W1-W3: Record initial brainstorming, group roles, and topic selection.
+o W4-W6: Document user research findings, personas, and early sketches.
+o W7-W10: Log iterative updates, evaluation results, and final reflections.
+• System is a functional prototype demonstrating the group’s proposed solution.
+o W1-W4: Low-fidelity prototyping and core feature logic.
+o W5-W8: High-fidelity web app development leading to the Week 8 Demo.
+o W9-W10: Bug fixing and usability refinements for the final submission.
+• Poster is a mid-term milestone showcasing research, design progress, and initial
+prototypes.
+o W4-W5: Synthesize research gaps and design requirements.
+o W6-W8: Visualize the final solution for the mid-term presentation.
+• Video is a concise and engaging video showcasing the system’s features and impact.
+o W4-W6: Scripting and storyboarding the user journey.
+o W7-W10: Recording the functional system and editing the 2-minute CHI-style
+teaser.
+5
+
+
+--- PAGE 6 ---
+
+Project Timeline & Checklist
+Deliverable C hecklist
+Week 2 Group & Topic Lock * 4 members registered.
+* Topic selected and registered on learning mall.
+* Process Portfolio site (GitHub) initialized.
+Week 4 User Research * 2 personas created.
+Conducted * User journey map completed.
+* Findings from 5+ academic papers cited in Portfolio.
+Week 6 Mid-term Poster Draft * Aims and objectives clearly stated.
+* Visuals of initial prototypes included.
+* Novelty and significance explained.
+Week 8 Final Poster & Alpha * Functional core logic (web-based) realized in System.
+System * Initial user testing data recorded in Portfolio.
+* Design Alternatives compared and documented.
+Week 10 Final Submission * Live URL for the Web App.
+* 2-min Video (MP4).
+* Final Portfolio (including iterative feedback logs).
+6
+
+
+--- PAGE 7 ---
+
+Instructions for the Process Portfolio
+In this submission, you should present your work with a focus on the followings:
+1. Demonstrate an iterative design, prototyping, and evaluation process
+2. Explain the prototypes used in the design process, with comparisons of alternatives
+3. Use appropriate methods to evaluate the design alternatives
+4. Show a valid collection and analysis of data from the correct target user
+demographics with reasonable sample sizes
+5. Demonstrate a good discussion on the evaluation results and design implications
+Specifically, the Process Portfolio should be a window to showcase your work. You should
+cover the following content in your portfolio:
+1. Motivation & Research
+• The Why: A 200-word statement on why your group chose your specific track
+(Heritage, Social, or Active).
+• The Gap: Summarize 4 academic papers and 4 commercial products. Instead of a
+summary, list 3 things they did well and 3 things they missed.
+• The Stakeholders: Define primary and secondary users with distinct Personas.
+2. User Requirements
+• User Journey Map: A visual map showing the current pain points of your target
+users.
+• Requirements List: A bulleted list of 3 must-haves for the system to be considered
+“Playful”.
+• Evidence of Life: Upload 5 photos or short clip videos of your group interviewing a
+potential user or observing the site (e.g., Suzhou Grand Canal).
+3. Ideation & Alternatives
+• The “Crazy Eights”: Photos of 8 rapid hand-drawn sketches of different UI ideas.
+• Design Alternatives: Compare at least 2-3 different ways the system could work and
+explain why you chose one over the other(s).
+• Low-Fi Prototype: A link to a clickable Figma prototype.
+4. Technical Implementation
+• System Architecture: A diagram showing how your Web App handles data.
+• High-Fi Prototype: Ideally a URL to the hosted system (e.g., yourproject.github.io or
+yourproject.vercel.app).
+• Individual Contributions: A table showing exactly what each of the 4 members built
+(Code, UI Design, Content, or Testing, etc.).
+5. Evaluation & Reflection
+• Usability Testing: Results from testing your “Alpha” version with 3 real people.
+• Iterative Refinement: “Before and After” screenshots showing a change you made
+based on user feedback.
+• Final Reflection: A brief discussion on the social/ethical implications of your design,
+and the use of AI in this project (check more details in the Generative AI Permissions
+section).
+7
+
+
+--- PAGE 8 ---
+
+Instructions for the System Development
+The system is the functional heart of your project. It must be a live, interactive web application
+that demonstrates your group’s solution to the identified human-centric challenge.
+Key Objectives:
+1. Functionality: Deliver a working prototype that users can interact with via a URL.
+2. User Experience: Demonstrate a high-fidelity interface that aligns with your design
+requirements.
+3. Technical Deployment: Show proficiency in deploying to modern cloud platforms
+(e.g., GitHub pages, Vercel).
+4. Accessibility: Ensure the system is usable and follows basic web standards.
+Required Content:
+1. Live URL: A direct link to your hosted web app. Ensure the site is “Public” and
+remains active throughout the marking period.
+2. Core Feature Set: The system must implement at least 3 must-have playful features
+identified in your Requirements List.
+3. Responsive Design: The interface should be optimized for the device specified in
+your track (e.g., Mobile / PC).
+4. Source Code Repository: A link to your group’s GitHub repository.
+o README.md: Must include setup instructions and a list of technologies used
+(e.g., Three.js, React).
+o Vibe Coding Logs: If AI was used for coding, include a folder named /ai-
+logs containing the primary prompts used to generate core components.
+5. Data Handling: Evidence of how the system manages user input or interaction states
+(as outlined in your Portfolio’s System Architecture diagram).
+8
+
+
+--- PAGE 9 ---
+
+Instructions for the Poster Submission
+In the poster presentation, you should complete the following tasks:
+1. Clearly state the project motivation, as well as aims and objectives
+2. Clearly specify and study the target group of users
+3. Research extensively and summarize the key issues on the existing works
+4. Show some efforts in collecting design requirements
+5. Propose effective and novel design solutions, use prototypes where possible
+Poster Size: A1, 59.5 x 84.1 cm (23.4 x 33.1 inches).
+Specifically, you should cover the following content in your poster:
+1. Header & Brand
+• Project Title: A catchy, playful name for your system (e.g., “Suzhou Whispers” instead
+of “Project A1”).
+• Team Info: Group ID, member names and student IDs.
+2. The Problem Space
+• Clearly define the motivation behind your project.
+• Briefly highlight what is missing in existing commercial or academic solutions.
+• Identify your primary and secondary user groups using a concise Persona snapshot.
+3. The Design Solutions
+• State your specific aims and objectives.
+• Describe your novel design concept.
+• Explain what makes this experience engaging or human-centric.
+• A simplified visual (e.g., user journey map) showing how a user interacts with your
+system to solve their pain points.
+4. Prototypes & Iteration
+• Show the evolution from early sketches (low-fi) to your current web-based prototype
+(high-fi).
+• A small diagram showing how the system works (e.g., WebXR on Vercel).
+• Explain one major design decision you made between 2-3 options.
+5. Early Evaluation & Impact
+• Summary of any pilot testing or requirements collected.
+• Why does this project matter in the context of the topic or human-centric design?
+6. References & Acknowledgments
+• AI Disclosure: Include the required citation for any AI-generated images used in the
+poster (e.g., Gemini Nano Banana) as per university policy.
+• Academic References: List at least 3 key papers that influenced your research.
+9
+
+
+--- PAGE 10 ---
+
+Instructions for Video Demo Submission
+The video is your “pitch” to the world. It should be a concise, engaging 2-minute demonstration
+that captures the vibe and impact of your system.
+Format: MP4 encoding (with H.264 compression), 1080p.
+For more details, check out the two guides: https://sigchi.org/resources/guides-for-
+authors/videos/ & https://chi2025.acm.org/guide-to-a-successful-video-submission/
+Key Objectives:
+1. Narrative: Tell a story that starts with a user's pain point and ends with your playful
+solution.
+2. Clarity: Use screen recordings to show exactly how the system works.
+3. Engagement: Use high-quality audio and visuals to maintain a standard teaser video.
+Required Content:
+1. Cover: Show a representative image of your project, with your group ID, project title,
+your names, and student IDs.
+2. The Hook (~10s) Visually demonstrate the problem space (e.g., footage of a crowded
+site in Suzhou or a lonely student study session).
+3. The Concept (~15s): Introduce your system and its core human-centric value
+proposition.
+4. The Walkthrough (~55s): High-quality screen recordings of the High-Fi prototype in
+action.
+o Show a user navigating through the 3 core features.
+o Use call-outs (text overlays) to highlight specific playful interactions.
+5. The Impact (~35s): Show clips of evaluation results or quote from your usability testing.
+6. Closing & Credits (~5s): Acknowledge the help your received throughout the project;
+display the mandatory AI Disclosure if AI-generated voices or visuals were used.
+10
+
+
+--- PAGE 11 ---
+
+Marking Criteria
+Component Marks Marking Criteria
+Excellent (36–40): Comprehensive and well-researched content, clear visuals, and
+innovative design solutions.
+Good (28–35): Clear and focused content, with minor gaps in research or design
+details.
+Poster 40
+Satisfactory (20–27): Basic content with limited research or unclear design
+solutions.
+Needs Improvement (0–19): Lacks clarity, research, or meaningful design
+progress.
+Excellent (18–20): Clear, well-organized, and detailed specification with evidence
+of iteration and refinement.
+Good (15–17): Well-structured and mostly complete, with minor gaps in detail or
+Portfolio 20
+clarity.
+Satisfactory (10–14): Basic content with limited updates or unclear descriptions.
+Needs Improvement (0–9): Incomplete or poorly organized specification.
+Excellent (18–20): Fully functional system with innovative features, robust
+implementation, and excellent usability.
+Good (15–17): Mostly functional system with minor issues or missing features.
+System 20 Satisfactory (10–14): Partially functional system with limited features or usability
+issues.
+Needs Improvement (0–9): Non-functional system or significant gaps in
+implementation.
+Excellent (18–20): Highly engaging, professional-quality video with clear
+demonstration of features and impact.
+Good (15–17): Well-made video with minor issues in clarity or engagement.
+Video 20 Satisfactory (10–14): Basic video with limited engagement or unclear
+demonstration of features.
+Needs Improvement (0–9): Poor-quality video with little to no effort in showcasing
+the project.
+11
+
+
+--- PAGE 12 ---
+
+University Policy on Late Submissions
+If you submit coursework after the deadline, you will be penalized:
+• 5% of the total marks available for the assessment will be deducted from the
+assessment mark for each working day after the submission deadline, up to a
+maximum of 25%;
+• Coursework received more than five working days after the submission deadline will
+receive a mark of zero.
+University Policy on Academic Integrity
+The University aims to foster a learning environment which produces students who embrace
+academic integrity, understand that they must produce their own work, are able to acknowledge
+explicitly any material that has been included from other sources or legitimate collaboration,
+and to present their own findings, conclusions or data based on appropriate and ethical
+practice.
+The University will support you to understand the standards of academic integrity, while you
+are responsible for learning and upholding professional standards of research, writing,
+assessment, and ethics in your area of study. Violation of academic integrity comes in many
+forms, including but not limited to the following:
+• improper citation or referencing;
+• unauthorised collaboration with another person in the preparation and production of a
+submitted work;
+• copying directly from other persons without their knowledge as your own work;
+• submitting all or part of the same academic work for two or more modules without
+permission;
+• consciously representing another’s work or concept as your own without proper
+acknowledgment and citation of the sources;
+• altering data obtained by legitimate means or making up a portion or whole set of data
+and reporting them in your own assignment;
+• requesting another party to prepare all or part of an assignment (with or without
+payment) on your behalf.
+Any violation of academic integrity is a serious offence and is therefore subject to an appropriate
+penalty. According to the individual case and the seriousness of the offence, penalties applied
+will vary and may include one or a combination of the following:
+• a written warning;
+• a mark penalty or a zero mark for the assessment;
+• a zero mark for the module;
+• a note on student’s records;
+• suspension of studies;
+• termination of studies.
+In addition to the respective penalty imposed, you may also be given feedback on how to avoid
+further offence in future work.
+12

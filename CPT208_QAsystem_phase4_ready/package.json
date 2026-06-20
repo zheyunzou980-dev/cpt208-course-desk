@@ -1,0 +1,14 @@
+{
+  "name": "cpt208-course-desk-static",
+  "version": "2.1.0",
+  "private": true,
+  "description": "CPT208 Course Desk QA system with a static fallback and a Phase 1 JSON database backend.",
+  "scripts": {
+    "start": "node server/server.mjs",
+    "serve": "node server/server.mjs",
+    "static": "python3 -m http.server 5173"
+  },
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}

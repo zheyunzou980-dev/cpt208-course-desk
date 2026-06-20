@@ -1,0 +1,46 @@
+{
+  "health_check": {
+    "method": "GET",
+    "url": "https://YOUR_PUBLIC_DOMAIN/api/health"
+  },
+  "coze_ask_request": {
+    "method": "POST",
+    "url": "https://YOUR_PUBLIC_DOMAIN/api/coze/ask",
+    "headers": {
+      "Content-Type": "application/json",
+      "X-Coze-Service-Key": "YOUR_COZE_SERVICE_KEY"
+    },
+    "body": {
+      "question": "What should we put in the poster?",
+      "user_id": "coze_user_001",
+      "user_name": "Student From Coze"
+    }
+  },
+  "expected_success_response": {
+    "answer": "Students should put the most important information on the poster...",
+    "sources": [
+      {
+        "id": "qa_022",
+        "title": "What should students put in the poster?",
+        "snippet": "Students should put the most important information...",
+        "source_document": "ALL_QA_information.pdf"
+      }
+    ],
+    "confidence": "high",
+    "unanswered": false,
+    "retrieval_mode": "local-json",
+    "answer_mode": "extractive",
+    "inquiry_id": "log_...",
+    "channel": "coze"
+  },
+  "expected_unanswered_response": {
+    "answer": "I could not verify this from the approved course knowledge base yet. Your question has been logged for teacher review so the teaching team can add or confirm an official answer.",
+    "sources": [],
+    "confidence": "low",
+    "unanswered": true,
+    "retrieval_mode": "local-json",
+    "answer_mode": "extractive",
+    "inquiry_id": "log_...",
+    "channel": "coze"
+  }
+}

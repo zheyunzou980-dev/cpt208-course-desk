@@ -1,0 +1,153 @@
+
+
+--- PAGE 1 ---
+
+CPT208 Human-Centric Computing
+Section A: Basic Information
+1. Brief Introduction to the Module
+Human-Centric Computing is a level one module that provides students with up-to-date guidelines, concepts and
+models for designing and evaluating interactive systems.
+Students will learn theories and methodologies in designing and implementing graphical user interfaces through
+practical tools.
+2. Key Module Information
+Item Content
+Module
+Human-Centric Computing
+Name
+Module
+CPT208
+Code
+Credit Value 5
+Semester SEM2
+Pre-
+CPT105 OR CPT111
+requisites
+BEng Digital Media Technology / BSc Information and Computing Science / BSc
+Programmes
+Information Management and Information Systems
+3. Module Leader & Contact Details
+Module Leader
+
+
+--- PAGE 2 ---
+
+Field Information
+Name Yue Li
+Email Yue.Li@xjtlu.edu.cn
+Office SD457
+Phone 81883223
+Office Hours Wednesday 9:00–11:00
+Contact Method Email
+Biography:
+Dr. Yue Li is an Associate Professor at XJTLU. Her research focuses on Human-Computer Interaction (HCI),
+especially VR/AR applications in cultural heritage and education. She leads the HER Lab.
+Website: https://imyueli.github.io/
+HER Lab: https://hiherlab.github.io/
+Co-teacher
+Role Name Email Office Office Hours Contact
+Co-teacher Teng Ma Teng.Ma@xjtlu.edu.cn SD459 Wed & Thu 16:00–17:00 In-person
+Section B: Module Information
+1. Educational Aims
+This module aims to:
+Understand design process in computing systems
+Cover requirement gathering, design, prototyping, evaluation
+Apply interaction design methods in practical projects
+Evaluate usability and user experience
+2. Learning Outcomes
+Students will be able to:
+A. Apply user-centered design approach emphasizing equality, diversity, and inclusion
+B. Create and deploy interactive systems with legal, ethical, and professional considerations
+C. Evaluate usability and user experience using established criteria
+3. Teaching Methods
+
+
+--- PAGE 3 ---
+
+Lectures: 2 hours/week
+Seminars: 2 hours/week
+Private study: ~7 hours/week
+Continuous assessment + final exam
+4. Syllabus & Teaching Plan
+Week Mode Topic Pre-reading
+W1 Lecture/Seminar Module Introduction Chapter 1
+W2 Lecture/Seminar Discovering Requirements Chapter 11
+W3 Lecture/Seminar Conceptual Prototyping Chapter 12, 13
+W4 Lecture/Seminar Evaluation Methods Chapter 8, 9, 10
+W5 Lecture/Seminar Design Principles Chapter 2, 3
+W6 Lecture/Seminar Prototyping Fidelity Chapter 12, 13
+W7 Lecture/Seminar Reading Week Chapter 4, 5, 6
+W8 Lecture/Seminar Poster Day —
+W9 Lecture/Seminar Usability Testing Chapter 14, 15
+W10 Lecture/Seminar Interfaces & Research Chapter 7
+W11 Lecture/Seminar Field Study & Analytics Chapter 15, 16
+W12 Lecture/Seminar Coursework Demo —
+W13 Lecture/Seminar Revision —
+5. Assessment Details
+5.1 Coursework (40%)
+Task Weight Release Due
+Poster Presentation 16% 06 Mar 2026 24 Apr 2026
+Portfolio + System + Video Demo 24% 06 Mar 2026 10 May 2026 23:59
+AI Permissions (Coursework)
+Poster
+Allowed: image generation, grammar correction
+
+
+--- PAGE 4 ---
+
+Not allowed: core idea generation, research conclusions
+System & Video
+Allowed: coding assistance, debugging, video editing
+Must include reflection on:
+Prompts used
+Code verification
+Ethical considerations
+Must cite AI tools used
+5.2 Exam (60%)
+Type Weight Duration
+Final Exam 60% 2 hours
+Resit
+Type Weight
+Exam 100%
+6. Reading Materials
+Optional Textbooks
+The Design of Everyday Things — Donald Norman
+Interaction Design — Preece, Rogers, Sharp
+Reference Books
+Human Computer Interaction — Dix et al.
+Designing the User Interface — Ben Shneiderman
+Research Methods in HCI — Lazar et al.
+User Centered System Design — Donald Norman
+Section C: Additional Information
+1. Student Feedback
+Collected via online module survey
+Used for improving teaching quality
+2. Attendance
+
+
+--- PAGE 5 ---
+
+2. Attendance
+Attendance is mandatory
+Recorded via AMS system
+3. Coursework Rules
+Follow university Code of Practice on Assessment
+Late submission penalties apply
+4. Mitigating Circumstances
+Submit via e-Bridge
+Must be before deadline if possible
+5. Academic Integrity
+Includes penalties for:
+Plagiarism
+Collusion
+AI misuse
+Fabrication
+6. AI Policy
+Each assessment has specific AI allowance rules
+Must follow module handbook instructions
+7. Learning Platform
+Learning Mall Core: lecture materials & resources
+8. Communication
+Official communication via email / LMS
+9. Support
+Contact module leader or academic advisor
+University student support services available

@@ -1,0 +1,634 @@
+
+
+--- PAGE 1 ---
+
+2024-2025 CPT208 QA
+Dear all,
+Welcome to CPT208 Human-Centric Computing. (
+This module will be delivered by two lecturers: Dr Teng Ma (9A *) and me. My name is Yue Li (# F ©) and this is
+my personal website: https://imyueli.github.io/about.html.
+We will start our first class next week, Monday 11 am @BSG02. Please get ready by reading the module
+handbook on Learning Mall: https://core.xjtlu.edu.cn/pluginfile.php/114518/mod_folder/content/0/CPT208.AY20
+24-25.ModuleHandbook.pdf
+Even better, you could take a look at the Chapter 1 of the Interaction Design textbook.
+I look forward to seeing you all next week and hope you enjoy the module in the coming semester. ®
+If you have any questions, please feel free to send me an email.
+Best,
+Yue
+Module Leader of CPT208
+Dear all,
+Hope you have had a great first week.
+To date, 269 students have completed their grouping selection. Thank you for your prompt responses.
+This is a kind reminder that the grouping deadline is Monday, 24 February 2025, 13:00. Please make your
+selection as soon as possible, if you haven't done so. Those who have no selection by the deadline will be
+randomly allocated and will not be able to make any changes.
+See you next week! ®
+Best,
+Yue
+Dear all,
+I hope you have enjoyed the lecture and seminar today. Three things to update:
+1. The grouping has been completed. Please check the grouping results and start to complete the group
+tasks.
+2. The homework this week includes 1) a group proposal and 2) some requirement analysis exercises (see
+Week 2 seminar slides for details).
+How to submit:
+Group proposal: each group submits one page on learning mall (https://core.xjtlu.edu.cn/mod/assign/view.
+php?id=91298). Note that this is not marked.
+Requirement analysis exercises: if you need any feedback, please post them on Padlet (https://padlet.com/i
+myueli/cpt208-ay202425-| 78sn35c2h2jdq8t2).
+
+
+--- PAGE 2 ---
+
+• If you need feedback for your Week 1 group homework (see Week 1 lecture slides for details), please also feel
+free to post them on
+Padlet.
+3. The slides from the senior student experience sharing have been uploaded on learning mall (https://core.xj
+tlu.edu.cn/mod/folder/view.php?
+id=91297).
+Please note that what they said were very personal and subjective. Also, the content and assessments may vary
+this year. Therefore, please take the suggestions critically.
+Let us know if you have any questions.
+Dear all,
+I have just met a few groups during my office hour and it is great to see that you are making nice progress. Well
+done!
+Here are a few comments to you all, see if these are applicable to your project.
+1. Please answer the two questions before delving into your design and prototyping: who are your target
+users (have your talked to them)? what are they requirements?
+2. When you have a claim, try to find some evidence to support it. For example, if you say, "very few people
+nowadays are going to the museum" - please show me some evidence. It could be government statistics,
+museum annual report, academic paper, etc.
+3. Also, when you say, some function is needed in your system design, please show me the requirement
+specification. What kind of data did you collect from the users (interview, survey, field study, etc.)? What did
+your users tell you that makes you come up with the design?
+4. Next week, Dr Teng Ma will give you a lecture about design. The week after that, I will talk about interviews
+and questionnaires.
+However, the slides have been uploaded last week and I believe many of you have previewed it already. If not, I
+strongly encourage you to preview the slides before you do the data collection. Please, always keep a record of
+your data collection (recordings, notes, etc.).
+5. I would also encourage all of you to upload your prototyping results on Padlet - it's always good to show
+your preliminary results for feedback.
+I hope it helps.
+Best,
+Dear all,
+The lecture content this week is critical. Please review them if you missed the lecture today.
+Some general feedback and Q&As during the seminar are summaried below:
+IMPORTANT - Requirement gathering & data collection should be linked with your prototyping - your data is the
+best way to show something is needed / could be improved. Don't just do the questionnaire and leave it there -
+use the data to support your decision in choosing design alternative!
+Q1: We made a mistake, can we correct them and reupload?
+
+
+--- PAGE 3 ---
+
+A: Your procedure is iterative, so it's okay to make mistakes and fix them. Feel free to reupload them.
+Q2: What should we put in the poster? We are a lot of content.
+A: Please put the most important information. You only have a limited A1 page, don't try to put all progress in a
+single poster. Other information related to the progress can be presented using an iPad / printouts / laptop, etc.
+Q3: What figures should I use and include in the poster for the data analysis part? Is a pie chart better than a bar
+chart?
+A: The visualization of data should help meaning-making. You definitely do not need to include a separate figure
+for each question. Aggregate your data analysis and include only the important ones. Bar charts are good to
+show comparisons, pie charts are good to see proportion, line charts are good for showing trends - choose the
+appropriate one. There are also other ways like boxplots and tables, which can more effectively show the results
+of multiple questions in a single figure. Remember to use meaningful naming and provide figure captions.
+Q4: Our app is in Chinese. Do we need to translate everything?
+A: The golden rule is, if your audience is someone who do not speak Chinese at all, they should still be able to
+understand your project by reading your poster. This means you need to either 1) add English captions,
+annotations, and descriptions for the key parts, or 2) translate any Chinese you may have in your interface.
+Q5: How can I show the use of generative Al in my prototype?
+A: If it not self-explanatory in your system design, you may highlight and explain them using annotations / icons
+/ notes.
+Q6: What is the size of the poster? Where is the presentation?
+A: A1 size. You will present it in the EE lobby, first floor.
+Q7: Isn't it too early to submit the draft poster this week?
+A: Note that there will be no lecture in Week 7. Therefore, in order for you to get feedback from us, we need to
+see your draft poster by next Monday. At this stage, your poster doesn't have to be 100% ready - you can still
+make changes.
+Q8: 1 found other groups are working on a similar project idea. Does it matter?
+A: It's okay. Just focus on your own project. Don't worry about what others do.
+Feel free to email us if you have any more questions.
+Best,
+Yue
+Hello all,
+It's great to see so many nice demos today during my office hour. Well done!
+This announcement contains important instructions about the poster presentation day. Please read it carefully.
+Instructions based on the Q&As in the office hours:
+Poster content: When preparing your poster, please make sure everything is readable. Put only the most
+important aspects on your poster. Remember that you could always show your supporting materials use
+your own devices (see below for more details).
+Poster structure: There is no need to use exactly the bold content in the task sheet as your subheadings.
+
+
+--- PAGE 4 ---
+
+Be flexible.
+You can have your own subheadings (e.g., abstract, introduction, requirement gathering, design,
+prototyping, evaluation, results, discussion, conclusion, references, etc.).
+Supporting materials: You can bring ANY device - laptop, tablet, phone, HMDs, etc., and ANY materials - live
+demo, video, images, sketches, etc. ANYTHING! Be creative!
+Slides: Note that there will be no projector provided. If you want to present your powerpoint slides, please
+bring your own tablet or laptop. If it helps, this is what a poster presentation looks like:
+About poster printing & set up:
+What size: A1
+How to print: Bring your student ID card and a USB drive with your poster file to print. Go to EliafTEp, let
+the staff know the module code (CPT208) and your group number.
+Address：仁爱路99号C栋109（⻄安交通⼤学苏州研究院）
+Payment: Each group can print up to 1 poster for free. If you need to re-print it, then you will have to pay
+by yourself.
+Set-up: We will try to set up the poster stands by next weekend. After printing the poster, you may bring it
+and put it up in EE lobby, following the spatial layout below.
+On the presentation day (7 April), please come in group. All group members should attend. To avoid big crowds,
+please come at your allocated time slots:
+11:00-13:00 Group 1-5, 11-15, 21-25, 31-35, 41-45, 51-56
+14:00-16:00 Group 6-10, 16-20, 26-30, 36-40, 46-50, 57-62
+Poster exhibition schedule:
+5-6 April: Poster setup
+7 April: Poster presentation day (you should attend in person)
+8-10 April: Poster exhibition (you don't need to be there)
+11 April: Poster taken down
+To sum up:
+Where to go: EE lobby
+When to attend: set up your poster before the presentation day, and attend your allocated session
+(morning or afternoon)
+What to do before the presentation day: print your poster and put it up in EE lobby
+What to bring on the presentation day: supporting materials on your own devices
+Let us know if you have any questions. We really look forward to your presentation day!!!
+Best,
+Yue
+Some clarifications from the email Q&As:
+1. PDF file in Learning Mall: You need to submit your poster in PDF format.
+2. Zip file in Learning Mall: Supporting materials should be submitted as a zip file in learning mall.
+
+
+--- PAGE 5 ---
+
+• Presentation video: Some of you asked us if a presentation video is needed - it is good to have one for us to
+review. However, we understand that it was not made clear at the beginning so some of you may not expect it
+coming. If you want to record a presentation video as a backup for us to review, please also include it here in the
+zip file. Otherwise, if you feel that you do not have time, you don't have to do it. It is not compulsory.
+1. Poster printing: The poster stand our school provides is a X stand and it requires a printing size of
+80x180mm (see image below). We have a template given to the printing shop (see here). If you want to
+print your own poster at a different shop, kindly put your A1 poster in the blue area of the template and
+print it out in the size of 80x180mm.
+2. Presentation participation onsite: It's good to show a team effort by having multiple members presenting,
+but it's up to you to decide how to distribute the workload.
+3. Presentation Q&As: Anyone in the group can take a question. However, we may ask a specific member to
+answer a specific question. For example: Can you tell me what was your role in this group project?
+Dear all,
+Our poster exhibition has been a great success, receiving lots of positive feedback from staff and students. We
+are truly impressed by the outstanding work you showcased.
+Tomorrow (10 April) will be the last day of our exhibition day. This will be your last chance to take a picture with
+your team members around the poster, share your work, and invite your friends to come and see your work.
+As we approach the end of the poster exhibition, we highly encourage you to take down the poster on Friday
+morning (11 April) and keep it for yourself. Please remember to leave the poster stands in their designated spots
+and do not take them away! Any remaining posters will be recycled in the afternoon.
+Thank you all for your dedication and hard work.
+Best,
+Yue and Teng
+Hello all,
+Please remember (and remind your group members) to complete the peer assessment by the end of this week:
+https://core.xjtlu.edu.cn/mod/peerwork/view.php?id=111872
+As I mentioned in the class, please research online for portfolio examples and learn from good examples. I have
+provided two example project portfolios on Padlet: https://padlet.com/imyueli/cpt208-ay202425-
+78sn35c2h2jdq8t2/wish/dMA1W8M1wJnGa4OV|
+Note that these examples focus on the visuals and organization of content, rather than the content itself.
+If you find more examples and would like to confirm their quality, feel free to comment with the links you have.
+Regarding demonstration videos, you may check out the CHI video previews for inspirations: https://youtube.co
+m/playlist?
+list=PLqhXYFYmZ-Vcd3GOfc15D6idzRt037Hap&si=U3Smg81iJ0oG0xgi|
+The SIGCHI guide for preparing a video submission may also help: https://chi2025.acm.org/guide-to-a-successful
+-video-
+submission/
+
+
+--- PAGE 6 ---
+
+Best, Yue
+Dear all,
+If you would like to receive some feedback for your portfolio or video, please submit your work here: https://cor
+e.xjtlu.edu.cn/mod/assign/view.php?id=116562&forceview=1
+iring the seminar next week on Monday, I will check this submission link and provide you individual feedback.
+Note that this is a draft submission so it doesn't have to be perfect!
+I hope you could take this opportunity to ask questions and learn from each other.
+Best, Yue
+Dear all,
+As promised, I paste the seminar notes here for your information.
+1. No need to write a text report, only the portfolio PDF & demo video are needed
+2. Page limit - 10 pages. You can use double sided (A4 x2 on one page) if you need more space
+3. Demo video - use screen recording to show how your prototype works and narrate your work
+4. Content in portfolio should cover Week 1-12, not just Week 8-12 - you decide the weights
+5. How to highlight your own work? Think about visual approaches, like color highlights / blocks
+6. Structure - consider using iterations & timelines. For example, in the section Iteration 1, you can have
+subsections (subheadings) like requirement gathering, design, prototyping, evaluation, discussion &
+reflection; then iteration 2 & 3 with similar subsections.
+7. Make good use of visual languages - when presenting a paragraph, consider using bold, italic, highlights,
+and colors to convey the key messages.
+8. When finished, review and reflect - if you are applying for a master in HCI and you submit this portfolio as
+evidence of your previous work, can the reviewer see that you understand the key activities interaction
+design? Can they see that you are a good team player & a competent designer / developer by yourself?
+Let us know if you have more questions. I look forward to your submissions.
+Best,
+Yue
+Dear all,
+Just a quick note that we will use the lecture next week to provide additional feedback for your coursework.
+If you need this, please bring your draft portfolio to the classroom and prepare the list of questions you have.
+Hope it helps.
+Best,
+Yue
+Dear all,
+
+
+--- PAGE 7 ---
+
+Time flies and here comes our last teaching week. I want to express my heartfelt thanks for your outstanding
+engagement in this module - the lectures, seminars, feedback sessions, office hours, and your self-study time. I
+truly value the effort and time you have all invested, and congratulations on successfully completing your
+projects with such dedication.
+This module wouldn't have been such a great success, nor would I have enjoyed teaching as much, without your
+continuous involvement and enthusiasm for learning. It has been a pleasure to witness your growth and
+contributions.
+I would also like to invite you to join me in expressing our gratitude to our fantastic TAs: Bingqing, Jiachen, Siyue,
+Junyi, Peihong, and Shuhao.
+They are the true heroines and heroes behind this module.
+Please find our group picture below. Thank you again, and I look forward to seeing some of you in my final year
+project. :)
+Dear students,
+Congratulations again on your great achievements last semester in CPT208 Human-Centric Computing. You've
+done an excellent jobs in your group projects, which showed a strong research-led learning emphasis.
+Therefore, I strongly encourage you to take advantage of what you had developed and participated in the 2025
+XJTLU Research-led Learning Symposium.
+For more information, please access the poster here: https://box.xjtlu.edu.cn/lib/10184b82-d437-4ebb-bd6d-
+b01c3286c46d/file/UC%20For%20Students&Staff|2025/202509/0923/Call%20for%20Projects-
+2025%20XJTLU%20Research-|
+led%20Learning%20Symposium.pdf |
+Feel free to book an appointment with me if you need further support.
+Best,
+Yue
+Dear students,
+Congratulations again on your great achievements last semester in CPT208 Human-Centric Computing. You've
+done an excellent jobs in your group projects, which showed a strong research-led learning emphasis.
+Therefore, I strongly encourage you to take advantage of what you had developed and participated in the 2025
+XJTLU Research-led Learning Symposium.
+For more information, please access the poster here: https://box.xjtlu.edu.cn/lib/10184b82-d437-4ebb-bd6d-
+b01c3286c46d/file/UC%20For%20Students&Staff/2025/202509/0923/Call%20for%20Projects-
+2025%20XJTLU%20Research- |
+led%20Learning%20Symposium.pdf
+Feel free to book an appointment with me if you need further support.
+Best,
+Yue
+
+
+--- PAGE 8 ---
+
+2025-2026 CPT208 QA
+Dear all,
+It was such a pleasure seeing you all in the classroom - hope you've enjoyed the lecture and seminar today.
+Quick update one two things:
+1. Homework link updated: https://padlet.com/xjtlu/cpt208-ay2025-26-rzyizcizajmzbz90
+2. Yes you can choose an open topic (D) and do one of the topics above.
+The group selection opens this Sunday at 9 pm. However, before next Sunday (15 March), you can still update
+your selection.
+I look forward to your creative ideas and seeing your design and prototyping in the coming week.
+Best,
+Yue
+Dear all,
+This announcement contains important instructions about the poster demo day. Please read it carefully.
+Instructions based on the Q&As in emails & previous seminars:
+Poster content: Please make sure everything is readable. Put only the most important aspects on your
+poster. Remember that you could always show your supporting materials using.your own devices (see
+below for more details).
+Poster structure: No need to use exactly the bold content in the task sheet as your subheadings. Be
+flexible. You can have your own subheadings. If really needed, below is a suggested structure: Abstract,
+Requirement Gathering, Prototype Design and Iterations, Evaluation Results, Conclusion, References
+Supporting materials: You can bring ANY device - laptop, iPad, phone, HMDs, etc., and ANY materials - live
+demo, video, images, sketches, etc. ANYTHING! Be creative!
+Slides: Note that there will be no projector provided. If you want to present your powerpoint slides, please
+bring your own iPad or laptop. Please check out the video for more details about poster exhibition last
+year:
+http://xhslink.com/o/9bodzYnKRsa
+About poster printing & set up:
+What size: A1, 59.5 x 84.1 cm (23.4 x 33.1 inches).
+How to print: Each group can print up to 1 poster at EliatTEn for free. Please bring your student ID card. Let
+the ##x know the module code (CPT208) and your group number.
+o Address：仁爱路99号C栋109（⻄安交通⼤学苏州研究院）
+Payment: If you later find any issues in the poster and you want to re-print it, then you will have to pay by
+yourself.
+We will try to set up the poster stands by Thursday afternoon. After printing the poster, you may bring it
+and put it up in SC lobby, following the arrangement below.
+Poster exhibition schedule:
+Poster set up: 23 April to 24 April morning
+Exhibition day: 24 April
+
+
+--- PAGE 9 ---
+
+Exhibition period: 24-30 April
+Poster taken down: 30 April
+On the presentation day (24 April), please come in groups of four. All members should be present for your
+poster and be ready to take questions. To avoid big crowds, please come at your allocated time slots:
+Group A1-A3, D5: 13:30-15:00
+Group B1-B2, D3, D4: 14:30-16:00
+Group B3-B4, D1, D2, D7: 15:30-17:00
+Group C1-C3: 16:30-18:00
+To sum up:
+Where to go: SC lobby
+When to attend: set up your poster before the presentation day, and attend your allocated session
+What to do before the demo day: Print your poster and put it up in SC lobby
+What to bring on the demo day: Supporting materials on your own devices
+Let Dr Teng Ma and I know if you have any questions.
+Best,
+Yue & Teng
+Great to see some posters and demos during my office hours today. To clarity:
+1. Only the poster submission is needed for the Week 8 submission on learning mall.
+2. We expect to see your demos during the poster presentation - it doesn't have to be perfect, we understand
+you are keep improving it.
+3. Please get your portfolio link ready as we may request for more details during the Q&A, your portfolio is
+the best way to help you answer questions.
+4. I strong suggest that you include two QR codes in your poster, one for portfolio, the other for the demo, so
+that we could easily scan and access them.
+Good luck!
+Hi all,
+To clarify again,
+1. Learning mall submission: submit your own design, A1 poster. Template is not needed.
+2. Printed poster: go to the printing shop* and give your A1 poster to laoban. They will help you print the
+poster in the given template. See announcement above for more details.
+*I learned from the printing shop that it takes ~20 minutes to print one poster. Therefore, it is strongly
+suggested that you print & set up your poster early, the latest tomorrow. Imagine if you all plan to print the
+poster on Friday morning, then you will take the risk of not getting your poster printed on time, which will affect
+your presentation.
+Some of your stakeholders may come and see your work on Friday, and you are also welcome to invite other
+stakeholders to come and hear about your work. We encourage you to take it as an opportunity to seek for
+feedback and suggestions for improvements. Note that this is an iterative process and we do not expect to see
+perfect products in this poster presentation - you still have time after this.
+
+
+--- PAGE 10 ---
+
+Finally, I believe you all have put lots of efforts in your own project and you know the best about your project.
+The Q& are mainly about what you did in the past 8 weeks - who you designed for, what are therequirements,
+and the corresponding design and evaluations. As long as you are clear about these, you are perfectly fine.
+Remember - you will do the best job when you are confident about your work.
+We really look forward to seeing your work on Friday.
+Best,
+Yue and Teng
+Good morning everyone!
+I have seen many posters being set up already in the SC lobby - very well done!
+lease remember to follow the poster layout and order your posters in sequence, e.g., from A1-1 to A1-6; B1-1 to
+B1-7, D3; A2-1 to A2-6, D5, etc.
+We have a very tight schedule today so please arrive on time. You may want to get prepared by asking yourself
+the following questions:
+Can you introduce your project in 1 minute?
+What is the most important user requirement of this project?
+Can you demonstrate how you design & prototype for this requirement?
+Have you evaluated your prototype with the users?
+Can you describe your vibing coding process?
+Also, I heard that some professors may drop by this afternoon to see your work - you may be invited to join their
+SURF projects if you present your work well.
+Good luck & tnih! Impress them!
+All the best,
+Yue
+Dear all,
+Thank you so much for your great efforts in the poster exhibition - that was a great success and I hope you have
+enjoyed them.
+1. Overall, you did a terrific job in presenting your work! Very well done!
+2. Most of you have developed great working demos with well-creafted designs based on requirement
+elicitation - good job!
+3. Many groups showed up well prepared and justified the design well. We've seen many novel and playful
+designs - well
+done!
+4. Evaluation turned out to be a general weak aspect - but we will cover more details in this week's video
+lecture. Please stay tuned.
+5. You have indeed made substantive use of Al - most of you have acknowledged them well in the poster. We
+expect to see more in-depth reflections on it in your portfolio.
+Please find some general suggestions when preparing for your portfolio and video submissions:
+
+
+--- PAGE 11 ---
+
+1. Please document your requirement, design, prototyping, and evaluation process clearly in the portfolio.
+You may include a timeline to better illustrate your progress and iterations.
+2. Try to align your requirement, design, prototype, and evaluation when you design your portfolio. For
+example, number the R1, R2, R3, and map them clearly to the Design Goal 1, 2, 3, and then System Feature
+1, 2, 3.
+3. Informed consent should be obtained prior to any data collection. Please remember to acknowledge the
+ethical considerations in your portfolio and demo video.
+4. When introducing your design, in addition to what you did, think about why you did it and how they relate
+to each other & others' work.
+5. When recording the demo video, do not just show the sequence of use (what), show a logical structure
+(why and how).
+6. If you haven't conducted any evaluations, try to collect more user feedback, document / record them well,
+and use the as evidence to improve your design.
+7. Remember to explain your vibe coding process in the portfolio. In addition to an overview about the tools
+used, it would be good to discuss what worked and what didn't.
+Final notes:
+1. The poster exhibition will end on 30 April - please take advantage of the public display and learn from each
+other's good works. If you want to keep the poster for yourself. you may take it down on Thursday.
+2. I have taken some pictures at the end of our presentation day, you may find them here:
+https://box.xjtlu.edu.cn/d/449eb9794cf849899579/
+3. It was a pity that I did not have a chance to take pictures of your presentation moments - if you have taken
+any good photos that you'd like to share, I'd really love to see them! Please upload them here: https://box.x
+jtlu.edu.cn/d/daffe74c467c4020833f/
+4. If any of you want to further develop your projects into academic papers or really deploy them, please feel
+free to send me an email and we can meet to discuss about it.
+Thanks again for your hard work! I really appreciate it, and I'm deeply impressed by your work. You should all be
+very proud of yourself!
+Best,
+Yue
+Dear all,
+Given the lecture time conflict with the May Day holiday, please be reminded that there is no lecture tomorrow.
+I have made the lecture recording from last year available on learning mall:
+https://bbbload.xjtlu.edu.cn/playback/presentation/2.3/0c1a4d816300c6da32260f183f9631e2f0274129-1744599
+793187
+When viewing the recording, please ignore the instructions on page 5-9 about the Week 12 individual portfolio
+(5m30s to 12m20s) - it is no longer valid for this semester. The lecture content starts around 12m20s.
+To clarify, the portfolio, system, and video submission for this year is a group submission due on 10 May, Week
+10.
+Anything unclear, please feel free to send us an email.
+Wish you a happy holiday ahead!
+
+
+--- PAGE 12 ---
+
+Best,
+Yue
+Dear all,
+This announcement includes some important QAs about the final submission.
+1. What to submit and how?
+• What? Three files using the naming conventions as specified on the coursework specification:
+CPT208_GroupA1-1_ProjectName_Portfolio.zip - this is the zip file of your GitHub repository
+CPT208_GroupA1-1_ProjectName_DemoSystem.zip - this is the zip file of your system development folder
+CPT208_GroupA1-1_ProjectName_DemoVideo.mp4 - this is your 2-min system demo video
+How?
+Files here: https://core.xjtlu.edu.cn/mod/assign/view.php?id=87534
+Links here: https://core.xjtlu.edu.cn/mod/questionnaire/view.php?id=131735
+" Your web link should work without needing to sign up / log in. If really needed, please ensure a default user
+account that we can access with the username gpt208 and password gpt208.
+2. Submission of files exceeding learning mall size limit?
+If you can submit your files in learning mall without issue, great, go with it.
+Otherwise, please upload MP4 video only on learning mall, and use this box link for the two zip files:
+https://box.xjtlu.edu.cn/u/d/fb82911f6cc141069cf5/
+3. Do I need backend? Should I deploy the system to a cloud server?
+No, cloud server is not a must-have.
+If you have deployed this, ensure link access til 30 June.
+4. How to show my system function without a cloud server?
+Run locally and record the video demo.
+5. How long is the video?
+Max 2 mins.
+6. Video demo - can I use Al? voice?
+You may use Al to generate some visuals, but this should always be noted. Acknowledge tools used in the
+corner (e.g., Visual effect generated using xxx) & reference in the end (see example below).
+You may use Al-generated voice for the narration (voiceover). Again, acknowledge and reference this in the
+end.
+Example of acknowledging Al in the end:
+This video includes Al-generated content. The footage from 00:00 to 00:05 was generated using xxx; the
+VoiceOver was generated using xxx; ...
+Example of referencing Al:
+Claude 3.5 Sonnet, v1.0, accessed on 2026-02-24, available at https://claude.ai. Used for refining the user
+persona descriptions and generating the initial storyboard script for the Video Demo.
+7. Technical Reflection on Al use in the portfolio, what to write?
+Reflect on two specific examples.
+
+
+--- PAGE 13 ---
+
+Try to think in this way:
+P (Prompt): The specific natural language instruction + context provided.
+O (Outcome): What did the Al provide? What worked and what didn't? (Success, Buggy, or Irrelevant)
+A (Action): What did you do next? (Modified the code about xxx, refined the prompt to xxx, or discarded
+the
+"vibe").
+Let us know if you have more questions.
+Best,
+Yue and Teng
+Dear all,
+Following the SAT Group work Submission Guideline on Academic Integrity, we need to collect a cover page with
+your signatures.
+Please download the document from the learning mall, complete your group information, sign it, and upload
+this by this Friday 23:59: https://core.xjtlu.edu.cn/mod/assign/view.php?id=133764
+This is a compulsory submission required by the school policy.
+"A signed submission cover page is required (physical signature by all members), scanned and then attached as
+the first page of the submission. Missing signatures or those signed on one's behalf or the completion of fake
+information will result in mark penalties."
+Note that for this submission, only the cover page as a PDF document is needed. Nothing else.
+Finally, we have received responses from most groups - if you have not submitted the two links or completed
+your peer assessment, please do it as soon as possible. Thanks.
+Best,
+Yue and Teng
+Dear all,
+While we have not yet completed going through every submissions, we have observed quite a few good projects
+that have potentials and values to be further developed.
+If you are interested to further develop this project, either as a group or as an individual, please register your
+interest in this form and come to me during the seminar today.
+• Call for further development interest: https://core.xjtlu.edu.cn/mod/questionnaire/view.php?id=134659
+Today's seminar (4-6 pm) serves for two purposes:
+1. If you feel that you would like to clarify something for your previous submission, such as how to access
+your system or demo, please come and explain your idea.
+2. For those who'd like to further develop your projects, please take a look at the following opportunities and
+let me know how you may want to proceed your project further.
+Potential opportunities:
+1. Human-Machine Collaborative Computing (HMCC 2026)
+
+
+--- PAGE 14 ---
+
+Submission deadline: June 15, 2026
+Attendance: August 14-17, 2026 in Changsha, Hunan, China
+https://hhme.ccf.org.cn/ZGTZ_HHME_Eng.html
+2. International Conference on Extended Reality (ICXR 2026)
+Submission deadline: July 1, 2026
+Attendance: November 5-6, 2026, in Guangzhou, Guangdong, China
+https://icxr.net/2026/CallForPapers.html
+3. International Conference on Intelligent Human-Computer Interaction (IHCI 2026)
+Submission deadline: 14 August 2026
+Attendance: 28-31 October 2026 in Ningbo, Zhejiang, China
+Submission deadline: 14 August 2026
+Attendance: 28-31 October 2026 in Ningbo, Zhejiang, China
+Paper: https://ihci2026.com/contribute/papers/
+Research Demo: https://ihci2026.com/contribute/demos/
+4. The ACM CHI Conference on Human Factors in Computing Systems (CHI 2027)
+Submission deadline: September 10, 2026
+Attendance: 10-14 May 2027 in Pittsburgh, USA
+https://chi2027.acm.org/authors/papers/
+5. Digital Applications in Archaeology and Cultural Heritage
+1. Submission deadline: 31 May 2026, Special issue on Digital Applications for Museums: Innovations in
+Heritage Interpretation and Visitor Engagement: https://www.sciencedirect.com/special-issue/327820/digit
+al-applications-
+for-museums-innovations-in-heritage-interpretation-and-visitor-engagement
+2. Submission deadline: 10 August 2026, Immersive, Interactive and Metaverse Heritage: XR Design,
+Engagement, and Learning Outcomes: https://www.sciencedirect.com/special-issue/330456/immersive-inte
+ractive-and-
+metaverse-heritage-xr-design-engagement-and-learning-outcomes
+What you may get from this further development?
+A well-developed coursework project that can be reflected in your CV / Portfolio;
+A collaborative research experience with supervision from professors);
+Potential conference / journal publications and presentations in academic venues;
+Reference letters) from professors) in your further studies;
+An opportunity to keep working with us in the final year project.
+Note that this is a bonus for the efforts you put into this project. It is not a requirement of the coursework and
+will not affect your coursework marking.
+I look forward to talking to you.
+Best,
+Yue
+Dear all,
+
+
+--- PAGE 15 ---
+
+This Friday, Dr Teng Ma and I will co-deliver the revision lecture.
+Next Friday, we will be there answering your questions.
+Suggested three-week plan for your revision of CPT208:
+1. 22 May, Friday: Attend the revision lecture this week.
+2. 23-28 May:
+1. Study the lecture materials and try to prepare your one-page written notes;
+2. Simulate an exam scenario (2 hours and write down your answers for a past exam paper;
+3. Try to improve your answers without a time limit.
+3. 29 May, Friday: Attend the Q&A session next week to ask for feedback.
+4. 30 May to 7 June: Repeat step 2, keep improving your notes and get practices.
+5. 8 June, Monday: Exam day. 10 am @ Gym, South Campus.
+If you could complete the above tasks, you will do a great job in your final exam.
+Best,
+Yue and Teng
+Dear all,
+I want to express my heartfelt thanks for your outstanding engagement in this module - the lectures, seminars,
+feedback sessions, office hours, and your self-study time. I truly value the effort and time you have all invested,
+and congratulations on successfully completing your projects with such dedication.
+This module wouldn't have been such a great success, nor would I have enjoyed teaching as much, without your
+continuous involvement and enthusiasm for learning. It has been a pleasure to witness your growth and
+contributions.
+I would also like to invite you to join me in expressing our gratitude to our fantastic TAs: Bingging, Yiyi, Jifan,
+Ningfei, Haoyu, and Zhiyue. They are the heroines and heroes behind this module.
+Please find our group picture below. Thank you again, and I look forward to seeing some of you in my final year
+project. :)
+Week 12 Q&As
+Please do not delete others' content. Thanks.
+Question: Do I need to show my face in the video?
+Answer: No need!
+Question: Can I use Al to generate the voiceover?
+Answer: Please don't. Please record your own voiceover.
+Question: Does the ten page include references as well?
+Answer: The 10 page limit includes everything. However, you do not need to use an entire page for the
+references.
+Question: What is the font size?
+
+
+--- PAGE 16 ---
+
+Answer: 10-12 would be sufficient.
+Question: Can I use a vertical A4 layout?
+Answer: The portfolio should be horizontal.
+Question: I used some elements from figma community.Should I reference them in IEEE style?
+Question: Is a size of 1980*1080 acceptable?
+Question: In my group we do the coursework individually, do I need to keep my teamates' names in the title
+page of the portfolios?
+Key Information
+All group members are responsible for all assigned tasks.
+All group members are equally and collectively responsible for the entire submission.
+All group members are held jointly accountable for the academic integrity of the entire submission.
+Violations of academic integrity including failure to monitor group member contribution originality
+constitutes negligence.
+Unreported suspicious academic misconduct by one group member will be attributed to ALL members in
+terms of penalties.
+A signed submission cover page is required (physical signature by all members), scanned and then
+attached as the first page of the submission. Missing signatures or those signed on one's behalf or the
+completion of fake information will result in mark penalties.

@@ -1,0 +1,287 @@
+
+
+--- PAGE 1 ---
+
+CPT208
+Human-Centric Computing
+Department of Computing Stage 3 | Level 2
+SECTION A: Basic Information
+Brief Introduction to the Module
+Human-Centric Computing is a level one module that provides students with the up-to-date guidelines, concepts and models for designing and ev
+aluating interactive systems. Students will learn about the theories and methodologies in designing and implementing graphical user interfaces, throu
+gh a set of useful tools.
+Key Module Information
+Semester in which t Pre-requisites needed for the mod
+Module name Module code Credit value
+he module is taught ule
+Human-Centric Computing CPT208 5 SEM2 CPT105 OR CPT111
+BEng Digital Media Technology
+Programmes on which the module
+BSc Information and Computing Science
+is shared
+BSc Information Management and Information Systems
+Module Leader and Contact Details
+Module Leader:
+Office telephone n Preferred means o
+Name Email address Room number Office hours
+umber f contact
+SD457(SIP Campus
+Yue Li Yue.Li@xjtlu.edu.cn 81883223 14:00-16:00 Friday Email
+-Science Building)
+Dr Yue Li (李月) is an Assistant Professor at the Department of Computing, Xi’an Jiaotong-Liverpool University.
+She graduated from the University of Nottingham in 2020 with the Postgraduate Award. Dr Li’s research interest is
+in the field of Human Computer Interaction (HCI), with particular emphasis on Virtual Reality (VR) and Augmented
+Reality (AR) technologies. She has been actively involved in research related to the design, evaluation and applicatio
+n of VR and AR in the social context, particularly the technology-enhanced learning activities in cultural heritage and
+Brief Biography
+education.
+For more information about me: https://imyueli.github.io/
+My research lab (HER Lab): https://hiherlab.github.io/
+Additional Teaching Staff and Contact Details:
+Office telep
+Preferred means o
+Role Name Email address hone numbe Room number Office hours
+f contact
+r
+Co-teacher TENG MA Teng.Ma@xjtlu.edu.cn 88970349 SD459 13:00-15:00 Friday Email
+
+
+--- PAGE 2 ---
+
+SECTION B: What You Can Expect from the Module
+Educational Aims of the Module
+To enable students to take a systematic approach to the specification, implementation, and evaluation of user interfaces in contemporary computin
+g systems.
+Learning Outcomes
+Students completing the module should be able to:
+A. Recognize the
+issues involved in
+designing computer
+systems for people
+including an
+understanding of the
+relevant legal,
+social, ethical and
+professional issues.
+B. Demonstrate an
+understanding of the
+methods and
+techniques for
+interaction design,
+recognising the
+responsibilities,
+benefits and
+importance of
+supporting equality,
+diversity and
+inclusion.
+C. Develop technical
+skills required for
+prototyping
+interactive systems.
+D. Critically
+evaluate interactive
+systems.
+E. Demonstrate an
+understanding of the
+methods and issues
+involved in
+deploying
+interactive systems
+to meet business
+goals.
+Methods of Learning and Teaching
+• Lectures. To introduce students to the academic content and practical skills which are the subject of the module. Students will be expected to at
+tend two hours of formal lectures each week.
+• Seminars. To allow students to practice skills learnt from the lectures and to work on assignments. Students will be expected to participate in tw
+o hour of supervised seminar in a computer lab each week.
+• Private study. To provide time for reflection and consideration of lecture material and background reading. Students will be expected to devote
+approximately seven hours of unsupervised time to private study.
+• Continuous assessment will be used to test to which extent practical skills have been learnt.
+• A written examination at the end of the module will assess the academic achievement of students
+
+
+--- PAGE 3 ---
+
+Syllabus & Teaching Plan
+Mode of Delivery(
+Week
+Lecture/Tutorial/S
+Numb Topic Pre-reading and others
+eminar/Field Trip/
+er
+Other)
+W1 Lecture/Seminar Module Introduction Chapter 1
+W2 Lecture/Seminar Discovering Requirements Chapter 11
+W3 Lecture/Seminar Conceptual Prototyping and Practical Guide Chapter 12, 13
+W4 Lecture/Seminar Heuristic Evaluation, Questionnaire, and Interview Chapter 8, 9, 10
+W5 Lecture/Seminar Design Principles and Design Alternatives Chapter 2, 3
+W6 Lecture/Seminar Prototyping Fidelity and Dimensions Chapter 12, 13
+W7 Lecture/Seminar Reading Week Chapter 4, 5, 6
+W8 Lecture/Seminar Group Project Demonstration Day
+W9 Lecture/Seminar Usability Testing & Experimental Design Chapter 14, 15
+W10 Lecture/Seminar Interfaces and Research Considerations Chapter 7
+W11 Lecture/Seminar Field Study and Analytics Chapter 15, 16
+Flipped Classroom: Selected Coursework Demonstra
+W12 Lecture/Seminar
+tion
+W13 Lecture/Seminar Revision
+Assessment Details
+Initial Assessment
+Final Exam (70% of the module mark)
+Assessment Type: EXAM
+Learning outcomes assessed: ALL
+Duration: 2.0 hours
+Resit opportunity: S
+Assessment Task Learning Outcomes Weighting Release Date Due Date
+Final Exam ALL 70% / /
+Generative AI Permissions /
+Requirements and Guidelines for the Exam
+The written examination will take place at the end of the semester. It covers all the teaching materials taught in the module.
+
+
+--- PAGE 4 ---
+
+Portfolio (15% of the module mark)
+Assessment Type: CW
+Learning outcomes assessed: ALL
+Duration: N/A
+Resit opportunity: S
+Assessment Task Learning Outcomes Weighting Release Date Due Date
+Portfolio PDF ALL 10% 17/Feb/2025 09/May/2025
+Generative AI Permissions Allowed in line with the university GAI guideline.
+Requirement and Guideline of the Assessment Task
+A PDF file with up to ten pages of visual images and texts, clearly describing the project design, prototyping, and evaluation process and outcom
+e, as well as personal reflections.
+Assessment Task Learning Outcomes Weighting Release Date Due Date
+Project Demo Video ALL 5% 17/Feb/2025 09/May/2025
+Generative AI Permissions Allowed in line with the university GAI guideline.
+Requirement and Guideline of the Assessment Task
+A MP4 video in up to 3 minutes, clearly demonstrating the conceptual design, the digital and/or physical prototyping and implementation outcome
+, as well as the evaluation results.
+Report (15% of the module mark)
+Assessment Type: CW
+Learning outcomes assessed: ALL
+Duration: N/A
+Resit opportunity: S
+Assessment Task Learning Outcomes Weighting Release Date Due Date
+Group Presentation and Poster w
+ALL 15% 17/Feb/2025 07/Apr/2025
+ith Peer Assessment
+Generative AI Permissions Allowed in line with the university GAI guideline.
+Requirement and Guideline of the Assessment Task
+A 5-min group presentation next to a poster, taking place on the group project demonstration day. A peer assessment will be conducted to evalu
+ate individual contributions.
+Resit Assessment
+Summer resits are not applicable for Undergraduate Stage 4 students.
+Exam (100% of the module mark)
+Assessment Type: EXAM
+Learning outcomes assessed: ALL
+Duration: 2.0 hours
+Assessment Task Learning Outcomes Weighting Release Date Due Date
+Exam ALL 100% / /
+Generative AI Permissions /
+Requirements and Guidelines for the Exam
+The resit exam will contribute 100% to the final mark.
+
+
+--- PAGE 5 ---
+
+Reading Materials
+Type Title Author ISBN/Publisher
+Mandatory Textbo
+N/A
+oks
+A. DIX J. E. FINLAY G. D. ABO
+HUMAN COMPUTER INTERACTION 9780130461094/PEARSON
+WD R. BEALE
+Optional Textbook
+JENNY PREECE, YVONNE RO
+s INTERACTION DESIGN: BEYOND H
+GERS, ANDANDAND HELEN 9781119901099/WILEY, 2023
+UMAN - COMPUTER INTERACTION
+SHARP
+THE DESIGN OF EVERYDAY THING
+S (REVISED AND EXPANDED EDITI DONALD NORMAN 9780262525671/BASIC BOOKS
+ON)
+DESIGNING THE USER INTERFACE:
+STRATEGIES FOR EFFECTIVE HUM
+BEN SHNEIDERMAN 9781292153919/PEARSON
+AN-COMPUTER INTERACTION 6TH
+Reference Textbo EDITION
+oks RESEARCH METHODS HUMAN CO
+JONATHAN LAZAR JINJUAN
+MPUTER INTERACTION 2ND EDITI 9780128053904/ELSEVIER
+FENG HARRY HOCHHEISER
+ON
+USER CENTERED SYSTEM DESIGN:
+NEW PERSPECTIVES ON HUMAN-C
+DONALD A. NORMAN 9780898598728/CRC PRESS
+OMPUTER INTERACTION 1ST EDITI
+ON
+Additional Materia
+ls
+SECTION C: Additional Information
+This section provides students with essential information and resources pertaining to their academic studies to ensure a successful academic journey and engage
+ment with the module.
+Student Feedback:
+The University is committed to receiving and responding to student feedback in order to improve the quality of the student experience within the in
+stitution. It is University policy that the preferred way of doing this is by using the Online Student Module Feedback Questionnaire Survey. Studen
+ts are encouraged to complete the questionnaire survey for this module at the end of the semester.
+Attendance:
+The University expects students to attend all timetabled learning sessions associated with this module, and to engage with the relevant learning and
+support resources. Student attendance will be recorded using the Attendance Management System (AMS). Please follow your teacher’s instructi
+ons for recording your attendance at each session. Students are responsible for managing their attendance, and should take prompt action to infor
+m the Module Leader in case circumstances beyond their control affect their class attendance. You are advised to read the University’s ‘Student
+Attendance Policy’ for more information.
+Rules of Submission for Assessed Coursework:
+The University has detailed rules and procedures governing the submission of assessed coursework. You need to be familiar with the rules and pr
+ocedures as detailed in the University’s ‘Code of Practice on Assessment’.
+Late Submission of Assessed Coursework:
+The University attaches penalties to the late submission of assessed coursework. You need to be familiar with the rules as detailed in the Universit
+y’s ‘Code of Practice on Assessment’.
+
+
+--- PAGE 6 ---
+
+Mitigating Circumstances:
+Students who experience serious illness or other unforeseen circumstances as defined in the Mitigating Circumstances (MC) Policy that prevent th
+em from submitting coursework or taking final/resit exams on time can apply for coursework deadline extension or final/resit exam authorized abs
+ence. The application should be made before the assessment date under Academic Records page on e-Bridge. Misuse of the MC policy will resul
+t in disciplinary actions and demerit points.
+Academic Integrity:
+The University aims to foster a learning environment which produces students who embrace academic integrity, understand that they must produc
+e their own work, are able to acknowledge explicitly any material that has been included from other sources or legitimate collaboration, and to pre
+sent their own findings, conclusions or data based on appropriate and ethical practice. Any violation of academic integrity including plagiarism, coll
+usion, copying, submission of commissioned or procured work, and/or falsification and fabrication of data will result in penalties and demerit point
+s. Please be familiar with the University’s Academic Integrity Policy.
+Examination Misconduct:
+The University also values academic integrity in the conduct of examinations. Any behavior that violates examination regulations will not be tolerat
+ed and will result in penalties and demerit points, as detailed in the policy of Regulations for Conduct of Examinations.
+Student Discipline Point System:
+Any violation of Academic Integrity Policy, Regulation for Conduct of Examinations, and abuse of the Mitigating Circumstances Policy will accrue
+demerit points. These points will be placed in the university system, and on the official XJTLU transcript. For details, please refer to the Student D
+iscipline Point System appended to the Regulations for the Conduct of Examinations.
+Generative AI:
+Information on whether the use of Generative AI is permitted or not for each assessed coursework is indicated in the Assessment Details section
+of this module handbook.
+For more information and resources on Generative AI and your learning and assessment, please consult the ‘XJTLU AI for Learning’ pages of th
+e Learning Mall Core.
+Learning Mall Core:
+Copies of lecture notes and other materials are available electronically through the Learning Mall Core, the University’s virtual learning environme
+nt, at learningmall@xjtlu.edu.cn.
+Communication:
+All official communication concerning module-related matters will be conducted via e-mail and/or as Learning Mall Core announcements. Other m
+odes of electronic communication are treated as informal.
+Further Support:
+You are advised to contact your Module Leader in the first instance if you experience any issues with your learning on this module. You may also
+contact your Academic Advisor or Programme Director. Further information on the kinds of support that the University provides to students can
+be found in the XJTLU Student Handbook.
+You are strongly advised to read the policies mentioned above very carefully, because this will help you perform better in your acad
+emic studies. You can find all the policies and regulations related to your academic study on the e-Bridge → 'Document Zone' page.
+Generated from e-Bridge
+
+
+--- PAGE 7 ---
+
+Cut-off Date: 14/Feb/2025

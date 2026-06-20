@@ -1,0 +1,103 @@
+openapi: 3.0.3
+info:
+  title: CPT208 Course Desk QA Plugin
+  version: 1.0.0
+  description: >
+    Plugin endpoint for Coze/扣子 to ask CPT208 course questions through the
+    CPT208 Course Desk backend. The backend performs approved-knowledge retrieval,
+    returns citation sources, and logs unanswered questions for teacher review.
+servers:
+  - url: https://YOUR_PUBLIC_DOMAIN
+    description: Replace with your deployed HTTPS backend domain.
+paths:
+  /api/coze/ask:
+    post:
+      operationId: askCpt208Question
+      summary: Ask a CPT208 question
+      description: >
+        Use this action when a student asks about CPT208 coursework, deadlines,
+        poster requirements, portfolio, video demo, AI policy, attendance, or
+        module contacts.
+      parameters:
+        - name: X-Coze-Service-Key
+          in: header
+          required: true
+          schema:
+            type: string
+          description: Service key configured in the backend COZE_SERVICE_KEY environment variable.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - question
+              properties:
+                question:
+                  type: string
+                  description: Student question in natural language.
+                user_id:
+                  type: string
+                  description: Optional Coze user id for logging.
+                user_name:
+                  type: string
+                  description: Optional display name for teacher-side inquiry review.
+            examples:
+              posterQuestion:
+                summary: Poster content question
+                value:
+                  question: What should we put in the poster?
+                  user_id: "{{user_id}}"
+                  user_name: "{{user_name}}"
+      responses:
+        "200":
+          description: Answer with citation sources.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  answer:
+                    type: string
+                  confidence:
+                    type: string
+                    enum: [high, medium, low]
+                  unanswered:
+                    type: boolean
+                  retrieval_mode:
+                    type: string
+                    example: local-json
+                  answer_mode:
+                    type: string
+                    example: extractive
+                  inquiry_id:
+                    type: string
+                  channel:
+                    type: string
+                    example: coze
+                  sources:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: string
+                        title:
+                          type: string
+                        question:
+                          type: string
+                        snippet:
+                          type: string
+                        source_document:
+                          type: string
+                        source_year:
+                          type: string
+                        score:
+                          type: number
+        "400":
+          description: Missing or invalid question.
+        "401":
+          description: Invalid service key.
+        "503":
+          description: Coze service key is not configured on the backend.

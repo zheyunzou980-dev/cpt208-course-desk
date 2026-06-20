@@ -1,0 +1,1053 @@
+window.CPT208_KNOWLEDGE_BASE = [
+  {
+    "id": "qa_001",
+    "question": "What is CPT208 Human-Centric Computing about?",
+    "answer": "CPT208 Human-Centric Computing provides students with up-to-date guidelines, concepts, and models for designing and evaluating interactive systems. Students learn theories and methodologies for designing and implementing graphical user interfaces through practical tools.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT20825-26handbook.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "module-overview",
+      "handbook"
+    ]
+  },
+  {
+    "id": "qa_002",
+    "question": "Who are the CPT208 teaching staff and how can students contact them?",
+    "answer": "The module leader is Dr Yue Li. Her email is Yue.Li@xjtlu.edu.cn, office SD457, and office hours are Wednesday 9:00-11:00. The co-teacher is Dr Teng Ma. His email is Teng.Ma@xjtlu.edu.cn, office SD459, and office hours are Wednesday and Thursday 16:00-17:00 in person.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT20825-26handbook.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "contact",
+      "office-hours"
+    ]
+  },
+  {
+    "id": "qa_003",
+    "question": "What are the learning outcomes of CPT208 in 2025-26?",
+    "answer": "Students should be able to apply a user-centered design approach emphasizing equality, diversity, and inclusion; create and deploy interactive systems with legal, ethical, and professional considerations; and evaluate usability and user experience using established criteria.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT20825-26handbook.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "learning-outcomes",
+      "handbook"
+    ]
+  },
+  {
+    "id": "qa_004",
+    "question": "How is CPT208 assessed in 2025-26?",
+    "answer": "The module assessment is 40% coursework and 60% final exam. The coursework includes a poster presentation worth 16% and a portfolio, system, and video demo worth 24%. The final exam is 2 hours and worth 60%.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT20825-26handbook.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "assessment",
+      "exam",
+      "coursework"
+    ]
+  },
+  {
+    "id": "qa_005",
+    "question": "What are the 2025-26 CPT208 coursework due dates?",
+    "answer": "According to the 2025-26 handbook, the poster presentation is due on 24 April 2026. The portfolio, system, and video demo are due on 10 May 2026 at 23:59. The project coursework brief also lists the poster presentation as 24 April, Week 8, and the portfolio, system, and video demo as 5 May, Week 10; teachers should confirm which final date is active in Learning Mall.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT20825-26handbook.pdf; CPT208.AY2526.Coursework.Project.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "deadline",
+      "coursework",
+      "poster",
+      "portfolio"
+    ]
+  },
+  {
+    "id": "qa_006",
+    "question": "What AI use is allowed for the CPT208 poster submission?",
+    "answer": "For the poster submission, students may make non-substantive use of AI. Permitted uses include generating illustrative backgrounds, icons, or conceptual visuals that help communicate the playful experience, and grammar editing for minor corrections or clarity. AI must not be used to define the project motivation, research findings, or core design logic.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT208.AY2526.Coursework.Project.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "ai-policy",
+      "poster",
+      "academic-integrity"
+    ]
+  },
+  {
+    "id": "qa_007",
+    "question": "What AI acknowledgement is required for AI-generated poster images?",
+    "answer": "Every AI-generated image must have a small caption or acknowledgement, for example, \"Image generated via [Tool Name]\". A formal citation must also be included in the References section of the Process Portfolio.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT208.AY2526.Coursework.Project.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "ai-policy",
+      "citation",
+      "poster"
+    ]
+  },
+  {
+    "id": "qa_008",
+    "question": "What AI use is allowed for the CPT208 system and video submissions?",
+    "answer": "For the portfolio, system, and video demo submissions, students may make substantive use of AI, including advanced AI integration to help build functional web-based prototypes. Permitted uses include LLM-assisted coding, debugging, scaffolded web application development, and video post-production such as voiceovers, audio cleaning, or transitions. The core design logic and human-centric justification must remain the group's own work.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT208.AY2526.Coursework.Project.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "ai-policy",
+      "system",
+      "video",
+      "portfolio"
+    ]
+  },
+  {
+    "id": "qa_009",
+    "question": "What must be included in the Technical Reflection if vibe coding is used?",
+    "answer": "If students use vibe coding to build the system, the Process Portfolio must include a Technical Reflection section explaining what prompts were used to generate the core logic, how the code was verified against user requirements, and any ethical considerations about AI-generated code, such as accessibility or bias.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT208.AY2526.Coursework.Project.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "ai-policy",
+      "technical-reflection",
+      "portfolio"
+    ]
+  },
+  {
+    "id": "qa_010",
+    "question": "What is the 2025-26 CPT208 project theme?",
+    "answer": "The 2025-26 CPT208 project is Playful Experience Design. Suggested design themes include Digital Heritage and Play, Social Connectivity, and Active Lifestyles.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT208.AY2526.Coursework.Project.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "project-theme",
+      "coursework"
+    ]
+  },
+  {
+    "id": "qa_011",
+    "question": "What platform should the CPT208 project system use?",
+    "answer": "The technical constraint states that the system must be a Web App, ideally accessible via URL. Suggested free tools include GitHub Pages for the portfolio, Figma for design, VS Code and GitHub Desktop for development, GitHub Pages or Vercel for web app hosting, and CapCut for video.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT208.AY2526.Coursework.Project.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "system",
+      "web-app",
+      "tools"
+    ]
+  },
+  {
+    "id": "qa_012",
+    "question": "How are CPT208 groups formed in 2025-26?",
+    "answer": "Students prepare and present the group project as a group of four. Grouping opens during the seminar in Week 1. If a student has not registered for a group by the seminar of Week 2, they will be allocated to a group. Once a group and topic are registered, changing groups or topics is not allowed.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT208.AY2526.Coursework.Project.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "group",
+      "topic-selection"
+    ]
+  },
+  {
+    "id": "qa_013",
+    "question": "What should the CPT208 poster presentation cover?",
+    "answer": "The poster presentation should clearly state the project motivation, aims, and objectives; specify and study the target user group; research and summarize key issues in existing work; show efforts in collecting design requirements; and propose effective and novel design solutions, using prototypes where possible.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT208.AY2526.Coursework.Project.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "poster",
+      "presentation",
+      "requirements"
+    ]
+  },
+  {
+    "id": "qa_014",
+    "question": "What size should the CPT208 poster be?",
+    "answer": "The poster size is A1, 59.5 x 84.1 cm, or 23.4 x 33.1 inches. The poster printing template also states CPT208 Group Presentation and Poster Exhibition on 24 April 2026.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT208.AY2526.Coursework.Project.pdf; CPT208_PosterPrintingTemplate.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "poster",
+      "printing",
+      "size"
+    ],
+    "aliases": [
+      "What is the size of the poster? Where is the presentation?"
+    ]
+  },
+  {
+    "id": "qa_015",
+    "question": "What sections should be included in the CPT208 poster?",
+    "answer": "The poster should include Header and Brand, the Problem Space, the Design Solutions, Prototypes and Iteration, Early Evaluation and Impact, and References and Acknowledgments. It should include a project title, group ID, member names and IDs, motivation, existing solution gap, user groups, aims, design concept, human-centric value, user journey, prototype evolution, one major design decision, pilot testing or requirements, AI disclosure, and at least three key academic references.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT208.AY2526.Coursework.Project.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "poster",
+      "content",
+      "references"
+    ]
+  },
+  {
+    "id": "qa_016",
+    "question": "What should the CPT208 video demo be like?",
+    "answer": "The video should be a concise and engaging 2-minute demonstration that captures the vibe and impact of the system. It should use MP4 encoding with H.264 compression at 1080p. It should tell a story from a user's pain point to the playful solution, show clear screen recordings of how the system works, and use high-quality audio and visuals.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT208.AY2526.Coursework.Project.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "video",
+      "demo",
+      "submission"
+    ]
+  },
+  {
+    "id": "qa_017",
+    "question": "What content is required in the CPT208 video demo?",
+    "answer": "The video should include a cover with representative project image, group ID, project title, names, and student IDs; a hook of about 10 seconds showing the problem space; a concept section of about 15 seconds; a walkthrough of about 55 seconds showing the high-fidelity prototype and three core features; an impact section of about 35 seconds; and closing credits of about 5 seconds with required AI disclosure if AI-generated voices or visuals were used.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT208.AY2526.Coursework.Project.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "video",
+      "demo",
+      "content"
+    ]
+  },
+  {
+    "id": "qa_018",
+    "question": "What is the late submission penalty for CPT208 coursework?",
+    "answer": "If coursework is submitted after the deadline, 5% of the total marks available for the assessment will be deducted from the assessment mark for each working day after the submission deadline, up to a maximum of 25%. Coursework received more than five working days after the submission deadline will receive a mark of zero.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT208.AY2526.Coursework.Project.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "late-submission",
+      "penalty",
+      "coursework"
+    ]
+  },
+  {
+    "id": "qa_019",
+    "question": "Is attendance mandatory in CPT208?",
+    "answer": "Attendance is mandatory and is recorded via the AMS system. Students should follow the teacher's instructions and refer to the University's Student Attendance Policy for more information.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "CPT20825-26handbook.pdf",
+    "source_year": "2025-26",
+    "tags": [
+      "attendance",
+      "handbook"
+    ]
+  },
+  {
+    "id": "qa_020",
+    "question": "Can students correct a mistake and reupload during the iterative design process?",
+    "answer": "Yes. The procedure is iterative, so it is okay to make mistakes and fix them. Students may reupload the work.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "reupload",
+      "iteration"
+    ],
+    "aliases": [
+      "We made a mistake, can we correct them and reupload?"
+    ]
+  },
+  {
+    "id": "qa_021",
+    "question": "What should students put on the poster if they have too much content?",
+    "answer": "Students should put the most important information on the poster. Since an A1 page is limited, they should not try to put all progress on a single poster. Other progress-related information can be presented using an iPad, printouts, laptop, or other supporting materials.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "poster",
+      "content"
+    ],
+    "aliases": [
+      "What should we put in the poster? We are a lot of content.",
+      "Poster content: what should we include?"
+    ]
+  },
+  {
+    "id": "qa_022",
+    "question": "What figures should students use for poster data analysis?",
+    "answer": "Data visualization should support meaning-making. Students do not need a separate figure for every question. They should aggregate data analysis and include only important figures. Bar charts are good for comparisons, pie charts for proportions, and line charts for trends. Boxplots and tables may show results from multiple questions effectively. Figures should have meaningful names and captions.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "poster",
+      "data-analysis"
+    ],
+    "aliases": [
+      "What figures should I use and include in the poster for the data analysis part? Is a pie chart better than a bar chart?"
+    ]
+  },
+  {
+    "id": "qa_023",
+    "question": "If an app interface is in Chinese, does everything need to be translated for the poster?",
+    "answer": "The golden rule is that an audience member who does not speak Chinese should still be able to understand the project by reading the poster. Students should either add English captions, annotations, and descriptions for key parts, or translate Chinese content in the interface.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "poster",
+      "language"
+    ],
+    "aliases": [
+      "Our app is in Chinese. Do we need to translate everything?"
+    ]
+  },
+  {
+    "id": "qa_024",
+    "question": "How can students show the use of generative AI in a prototype?",
+    "answer": "If the use of generative AI is not self-explanatory in the system design, students may highlight and explain it using annotations, icons, or notes.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "generative-ai",
+      "prototype"
+    ],
+    "aliases": [
+      "How can I show the use of generative AI in my prototype?"
+    ]
+  },
+  {
+    "id": "qa_025",
+    "question": "Does it matter if another group has a similar project idea?",
+    "answer": "It is okay if other groups work on a similar project idea. Students should focus on their own project and should not worry about what others do.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "project-idea"
+    ],
+    "aliases": [
+      "I found other groups are working on a similar project idea. Does it matter?"
+    ]
+  },
+  {
+    "id": "qa_026",
+    "question": "What files were required for the historical final submission QA?",
+    "answer": "Submit three files using the coursework naming conventions: CPT208_GroupA1-1_ProjectName_Portfolio.zip for the GitHub repository zip, CPT208_GroupA1-1_ProjectName_DemoSystem.zip for the system development folder zip, and CPT208_GroupA1-1_ProjectName_DemoVideo.mp4 for the 2-minute system demo video.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "final-submission",
+      "files"
+    ],
+    "aliases": [
+      "What to submit and how?",
+      "What should we submit and how?"
+    ]
+  },
+  {
+    "id": "qa_027",
+    "question": "Is a cloud server required for the historical CPT208 final system submission?",
+    "answer": "No, a cloud server is not a must-have. If the system is deployed, make sure the link remains accessible until 30 June. If there is no cloud server, run the system locally and record the video demo.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "deployment",
+      "video"
+    ]
+  },
+  {
+    "id": "qa_028",
+    "question": "How should students reflect on AI use in the portfolio?",
+    "answer": "Reflect on two specific examples using P, O, and A: P means the prompt, including the specific natural language instruction and context; O means the outcome, including what the AI provided and what worked or did not work; A means the action taken next, such as modifying code, refining the prompt, or discarding the result.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "ai-reflection",
+      "portfolio"
+    ],
+    "aliases": [
+      "Technical Reflection on AI use in the portfolio, what to write?"
+    ]
+  },
+  {
+    "id": "qa_029",
+    "question": "Does a student need to show their face in the video?",
+    "answer": "No. You do not need to show your face in the video.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "video"
+    ],
+    "aliases": [
+      "Do I need to show my face in the video?"
+    ]
+  },
+  {
+    "id": "qa_030",
+    "question": "What portfolio layout and font size were suggested in the historical Week 12 QA?",
+    "answer": "A 10-12 point font size would be sufficient. The portfolio should be horizontal rather than vertical A4.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "portfolio",
+      "layout"
+    ],
+    "aliases": [
+      "What is the font size?",
+      "Can I use a vertical A4 layout?"
+    ]
+  },
+  {
+    "id": "qa_031",
+    "question": "What responsibility do group members have for CPT208 group submissions?",
+    "answer": "All group members are responsible for all assigned tasks, equally and collectively responsible for the entire submission, and jointly accountable for the academic integrity of the entire submission. Unreported suspicious academic misconduct by one group member may be attributed to all members in terms of penalties.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "group",
+      "academic-integrity"
+    ]
+  },
+  {
+    "id": "qa_032",
+    "question": "Is a signed cover page required for CPT208 group work?",
+    "answer": "A signed submission cover page is required by school policy. It must include physical signatures by all members, be scanned, and be attached as the first page of the submission. Missing signatures, signatures on another person's behalf, or fake information will result in mark penalties.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "cover-page",
+      "submission"
+    ]
+  },
+  {
+    "id": "qa_033",
+    "question": "Do students need a backend or cloud server for the CPT208 final system submission?",
+    "answer": "No, a cloud server is not a must-have. If the system is deployed, make sure the link remains accessible until 30 June. If there is no cloud server, run the system locally and record the video demo.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "backend",
+      "cloud-server",
+      "deployment",
+      "video"
+    ],
+    "aliases": [
+      "Do I need backend? Should I deploy the system to a cloud server?",
+      "How to show my system function without a cloud server?"
+    ]
+  },
+  {
+    "id": "qa_034",
+    "question": "Is it too early to submit the draft poster this week?",
+    "answer": "Note that there will be no lecture in Week 7. Therefore, in order for you to get feedback from us, we need to see your draft poster by next Monday. At this stage, your poster does not have to be 100% ready - you can still make changes.",
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "draft-poster",
+      "feedback",
+      "week-7"
+    ]
+  },
+  {
+    "id": "qa_035",
+    "question": "What format should the poster file be submitted in Learning Mall?",
+    "answer": "You need to submit your poster in PDF format in Learning Mall.",
+    "aliases": [
+      "PDF file in Learning Mall",
+      "Do we need to submit the poster as a PDF file?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "poster",
+      "submission",
+      "pdf"
+    ]
+  },
+  {
+    "id": "qa_036",
+    "question": "How should supporting materials be submitted?",
+    "answer": "Supporting materials should be submitted as a zip file in Learning Mall.",
+    "aliases": [
+      "Zip file in Learning Mall",
+      "Do supporting materials need to be submitted as a zip file?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "supporting-materials",
+      "submission",
+      "zip"
+    ]
+  },
+  {
+    "id": "qa_037",
+    "question": "Is a presentation video needed for the poster submission?",
+    "answer": "A presentation video is good to have for review, but it is not compulsory. If you want to record a presentation video as a backup for review, include it in the zip file. Otherwise, if you do not have time, you do not have to do it.",
+    "aliases": [
+      "Is a presentation video compulsory?",
+      "Do we need a presentation video?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "presentation-video",
+      "poster",
+      "submission"
+    ]
+  },
+  {
+    "id": "qa_038",
+    "question": "What printing size is required for the poster stand?",
+    "answer": "The poster stand provided by the school is an X stand and requires a printing size of 80x180mm. If you print at a different shop, put your A1 poster in the blue area of the template and print it at 80x180mm.",
+    "aliases": [
+      "Poster printing size",
+      "What size should I print for the X stand?",
+      "What is the poster stand printing size?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "poster",
+      "printing",
+      "template"
+    ]
+  },
+  {
+    "id": "qa_039",
+    "question": "How should presentation participation be distributed onsite?",
+    "answer": "It is good to show a team effort by having multiple members presenting, but it is up to the group to decide how to distribute the workload.",
+    "aliases": [
+      "Should multiple group members present onsite?",
+      "Do all group members need to present?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "presentation",
+      "group-work"
+    ]
+  },
+  {
+    "id": "qa_040",
+    "question": "Who can answer questions during the presentation Q&A?",
+    "answer": "Anyone in the group can take a question. However, teachers may ask a specific member to answer a specific question, for example: can you tell me what was your role in this group project?",
+    "aliases": [
+      "Can anyone in the group take a presentation Q&A question?",
+      "Presentation Q&As"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "presentation",
+      "q-and-a",
+      "group-work"
+    ]
+  },
+  {
+    "id": "qa_041",
+    "question": "What poster content instructions were given for the poster demo day?",
+    "answer": "Make sure everything is readable. Put only the most important aspects on your poster. You can always show supporting materials using your own devices.",
+    "aliases": [
+      "Poster content: please make sure everything is readable",
+      "What should be on the poster for demo day?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "poster",
+      "content",
+      "demo-day"
+    ]
+  },
+  {
+    "id": "qa_042",
+    "question": "Does the poster need to use exactly the bold content in the task sheet as subheadings?",
+    "answer": "No. You do not need to use exactly the bold content in the task sheet as your subheadings. Be flexible. You can have your own subheadings. If needed, a suggested structure is Abstract, Requirement Gathering, Prototype Design and Iterations, Evaluation Results, Conclusion, and References.",
+    "aliases": [
+      "Poster structure: no need to use exactly the bold content in the task sheet as your subheadings",
+      "Can we use our own poster subheadings?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "poster",
+      "structure",
+      "subheadings"
+    ]
+  },
+  {
+    "id": "qa_043",
+    "question": "What supporting materials can students bring for the poster demo day?",
+    "answer": "You can bring any device, such as laptop, iPad, phone, or HMDs, and any materials, such as live demo, video, images, sketches, and so on. Be creative.",
+    "aliases": [
+      "Supporting materials: what can we bring?",
+      "Can we bring laptop, iPad, phone, HMDs, demo, video, images, sketches?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "poster",
+      "supporting-materials",
+      "demo-day"
+    ]
+  },
+  {
+    "id": "qa_044",
+    "question": "Will a projector be provided for poster demo day slides?",
+    "answer": "No projector will be provided. If you want to present PowerPoint slides, bring your own iPad or laptop.",
+    "aliases": [
+      "Slides: will there be a projector?",
+      "Do we need to bring our own device for slides?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "slides",
+      "presentation",
+      "demo-day"
+    ]
+  },
+  {
+    "id": "qa_045",
+    "question": "What is needed for the Week 8 submission on Learning Mall?",
+    "answer": "Only the poster submission is needed for the Week 8 submission on Learning Mall.",
+    "aliases": [
+      "Only the poster submission is needed for the Week 8 submission on learning mall",
+      "What should we submit in Week 8?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "week-8",
+      "poster",
+      "submission"
+    ]
+  },
+  {
+    "id": "qa_046",
+    "question": "Do demos need to be perfect for the poster presentation?",
+    "answer": "Teachers expect to see demos during the poster presentation. The demo does not have to be perfect because groups are still improving it.",
+    "aliases": [
+      "Does the demo have to be perfect for the poster presentation?",
+      "We expect to see your demos during the poster presentation"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "demo",
+      "poster-presentation"
+    ]
+  },
+  {
+    "id": "qa_047",
+    "question": "Should students prepare a portfolio link for the poster presentation Q&A?",
+    "answer": "Yes. Please get your portfolio link ready, as teachers may request more details during the Q&A. The portfolio is the best way to help you answer questions.",
+    "aliases": [
+      "Please get your portfolio link ready",
+      "Do we need a portfolio link for Q&A?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "portfolio",
+      "poster-presentation",
+      "q-and-a"
+    ]
+  },
+  {
+    "id": "qa_048",
+    "question": "Should students include QR codes in the poster?",
+    "answer": "It is strongly suggested to include two QR codes in the poster: one for the portfolio and the other for the demo, so that teachers can easily scan and access them.",
+    "aliases": [
+      "Should we include two QR codes in the poster?",
+      "QR codes for portfolio and demo"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "poster",
+      "qr-code",
+      "portfolio",
+      "demo"
+    ]
+  },
+  {
+    "id": "qa_049",
+    "question": "What questions should students prepare for the poster presentation?",
+    "answer": "Students may prepare to answer: Can you introduce your project in 1 minute? What is the most important user requirement of this project? Can you demonstrate how you design and prototype for this requirement? Have you evaluated your prototype with the users? Can you describe your vibing coding process?",
+    "aliases": [
+      "Can you introduce your project in 1 minute?",
+      "What questions may teachers ask during poster presentation?",
+      "Can you describe your vibing coding process?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "poster-presentation",
+      "q-and-a",
+      "preparation"
+    ]
+  },
+  {
+    "id": "qa_050",
+    "question": "What general suggestions were given for the portfolio and video submissions?",
+    "answer": "Document the requirement, design, prototyping, and evaluation process clearly in the portfolio. Align requirement, design, prototype, and evaluation, for example by mapping R1, R2, R3 to Design Goal 1, 2, 3 and System Feature 1, 2, 3. Obtain informed consent before data collection and acknowledge ethical considerations in the portfolio and demo video. When introducing your design, explain not only what you did, but why you did it and how it relates to each other and others' work. When recording the demo video, do not just show the sequence of use; show a logical structure. If no evaluations have been conducted, collect more user feedback, document or record it well, and use it as evidence to improve your design. Remember to explain your vibe coding process, including tools used and what worked or did not work.",
+    "aliases": [
+      "Please find some general suggestions when preparing for your portfolio and video submissions",
+      "What should I include in my portfolio and video submissions?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "portfolio",
+      "video",
+      "evaluation",
+      "vibe-coding"
+    ]
+  },
+  {
+    "id": "qa_051",
+    "question": "What should students do if files exceed the Learning Mall size limit?",
+    "answer": "If you can submit your files in Learning Mall without issue, go with it. Otherwise, upload the MP4 video only on Learning Mall and use the provided Box link for the two zip files.",
+    "aliases": [
+      "Submission of files exceeding learning mall size limit?",
+      "What if files are too large for Learning Mall?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "submission",
+      "file-size",
+      "learning-mall"
+    ]
+  },
+  {
+    "id": "qa_052",
+    "question": "How long is the video?",
+    "answer": "The video should be maximum 2 minutes.",
+    "aliases": [
+      "How long should the video be?",
+      "Max 2 mins"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "video",
+      "duration"
+    ]
+  },
+  {
+    "id": "qa_053",
+    "question": "For the final video demo, can students use AI visuals or AI-generated voice?",
+    "answer": "You may use AI to generate some visuals, but this should always be noted. You may also use AI-generated voice for the narration, but it must be acknowledged and referenced at the end.",
+    "aliases": [
+      "Video demo - can I use AI? voice?",
+      "Can I use AI-generated voice for the narration?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "video",
+      "ai-policy",
+      "voiceover",
+      "citation"
+    ]
+  },
+  {
+    "id": "qa_054",
+    "question": "How should students acknowledge AI use in the final video demo?",
+    "answer": "Acknowledge tools used in the corner, for example, Visual effect generated using xxx, and reference them at the end. Example acknowledgement: This video includes AI-generated content. The footage from 00:00 to 00:05 was generated using xxx; the VoiceOver was generated using xxx. Example reference: Claude 3.5 Sonnet, v1.0, accessed on 2026-02-24, available at https://claude.ai. Used for refining the user persona descriptions and generating the initial storyboard script for the Video Demo.",
+    "aliases": [
+      "Example of acknowledging AI in the end",
+      "How to reference AI in the video demo?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "video",
+      "ai-policy",
+      "acknowledgement",
+      "reference"
+    ]
+  },
+  {
+    "id": "qa_055",
+    "question": "Can students use AI to generate the voiceover in the Week 12 QA?",
+    "answer": "Please don't. Please record your own voiceover.",
+    "aliases": [
+      "Can I use AI to generate the voiceover?",
+      "Please record your own voiceover"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "week-12",
+      "video",
+      "voiceover",
+      "ai-policy"
+    ]
+  },
+  {
+    "id": "qa_056",
+    "question": "Does the ten page limit include references?",
+    "answer": "The 10 page limit includes everything. However, you do not need to use an entire page for the references.",
+    "aliases": [
+      "Does the ten page include references as well?",
+      "Do references count in the 10 page limit?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "approved",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "portfolio",
+      "page-limit",
+      "references"
+    ]
+  },
+  {
+    "id": "qa_057",
+    "question": "Should Figma community elements be referenced in IEEE style?",
+    "answer": "Please confirm with the teaching team before relying on a specific referencing style for Figma community elements.",
+    "aliases": [
+      "I used some elements from figma community. Should I reference them in IEEE style?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "draft",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "portfolio",
+      "figma",
+      "reference",
+      "needs-teacher-review"
+    ]
+  },
+  {
+    "id": "qa_058",
+    "question": "Is a size of 1980x1080 acceptable?",
+    "answer": "Please confirm the acceptable size with the teaching team.",
+    "aliases": [
+      "Is a size of 1980*1080 acceptable?",
+      "Is 1980x1080 acceptable?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "draft",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "portfolio",
+      "size",
+      "needs-teacher-review"
+    ]
+  },
+  {
+    "id": "qa_059",
+    "question": "If a group does the coursework individually, should teammates' names remain on the portfolio title page?",
+    "answer": "All group members are responsible for all assigned tasks, equally and collectively responsible for the entire submission, and jointly accountable for academic integrity. Please confirm the title-page naming requirement with the teaching team.",
+    "aliases": [
+      "In my group we do the coursework individually, do I need to keep my teammates' names in the title page of the portfolios?"
+    ],
+    "embedding": "[vector generated during ingestion]",
+    "status": "draft",
+    "source": "teacher",
+    "source_document": "ALL_QA_information.pdf",
+    "source_year": "2024-25 historical QA",
+    "tags": [
+      "historical-qa",
+      "portfolio",
+      "group-work",
+      "title-page",
+      "needs-teacher-review"
+    ]
+  }
+];

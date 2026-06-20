@@ -1,0 +1,430 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CPT208 Course Desk</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <section class="login-screen" id="login-screen" aria-label="Login">
+      <form class="login-card" id="login-form">
+        <div class="brand-block">
+          <div class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 64 64" role="img">
+              <path d="M12 16h31a9 9 0 0 1 9 9v17a9 9 0 0 1-9 9H21l-9 7v-7a9 9 0 0 1-9-9V25a9 9 0 0 1 9-9Z" />
+              <path d="M18 28h24M18 37h17" />
+            </svg>
+          </div>
+          <div>
+            <p class="eyebrow">CPT208 Human-Centric Computing</p>
+            <h1>CPT208 Course Desk</h1>
+          </div>
+        </div>
+        <div class="auth-tabs" role="tablist" aria-label="Account access">
+          <button class="active" id="show-login" type="button">Sign in</button>
+          <button id="show-register" type="button">Register</button>
+        </div>
+        <label>
+          Username
+          <input id="login-username" autocomplete="username" required />
+        </label>
+        <label>
+          Password
+          <input id="login-password" type="password" autocomplete="current-password" required />
+        </label>
+        <p class="login-error" id="login-error" role="alert"></p>
+        <button type="submit">Sign in</button>
+        <div class="demo-accounts">
+          <strong>Demo access</strong>
+          <span>Student: student / cpt208</span>
+          <span>Teacher: teacher / cpt208-admin</span>
+        </div>
+      </form>
+      <form class="login-card register-card is-hidden" id="register-form">
+        <div class="brand-block">
+          <div class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 64 64" role="img">
+              <path d="M12 16h31a9 9 0 0 1 9 9v17a9 9 0 0 1-9 9H21l-9 7v-7a9 9 0 0 1-9-9V25a9 9 0 0 1 9-9Z" />
+              <path d="M18 28h24M18 37h17" />
+            </svg>
+          </div>
+          <div>
+            <p class="eyebrow">CPT208 Human-Centric Computing</p>
+            <h1>Create Account</h1>
+          </div>
+        </div>
+        <div class="auth-tabs" role="tablist" aria-label="Account access">
+          <button id="register-show-login" type="button">Sign in</button>
+          <button class="active" id="register-show-register" type="button">Register</button>
+        </div>
+        <label>
+          Full name
+          <input id="register-name" autocomplete="name" required />
+        </label>
+        <label>
+          Username
+          <input id="register-username" autocomplete="username" required />
+        </label>
+        <label>
+          Password
+          <input id="register-password" type="password" autocomplete="new-password" minlength="6" required />
+        </label>
+        <label>
+          Role
+          <select id="register-role">
+            <option value="student">Student</option>
+            <option value="teacher">Teacher</option>
+          </select>
+        </label>
+        <label id="teacher-code-row" class="is-hidden">
+          Teacher access code
+          <input id="register-teacher-code" type="password" autocomplete="off" placeholder="Required for teacher accounts" />
+        </label>
+        <p class="login-error" id="register-error" role="alert"></p>
+        <button type="submit">Create account</button>
+        <div class="demo-accounts">
+          <strong>Prototype storage</strong>
+          <span>Registered users are stored locally in this browser.</span>
+          <span>Teacher code: cpt208-admin</span>
+        </div>
+      </form>
+    </section>
+
+    <header class="app-shell">
+      <div class="brand-block">
+        <div class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 64 64" role="img">
+            <path d="M12 16h31a9 9 0 0 1 9 9v17a9 9 0 0 1-9 9H21l-9 7v-7a9 9 0 0 1-9-9V25a9 9 0 0 1 9-9Z" />
+            <path d="M18 28h24M18 37h17" />
+          </svg>
+        </div>
+        <div>
+          <p class="eyebrow">CPT208 Human-Centric Computing</p>
+          <h1>Course Desk</h1>
+        </div>
+      </div>
+      <div class="header-actions">
+        <nav class="mode-switch" aria-label="Application mode">
+          <button class="mode-button active" data-mode="student" type="button">Student</button>
+          <button class="mode-button teacher-only" data-mode="teacher" type="button">Teacher</button>
+          <button class="mode-button teacher-only" data-mode="analytics" type="button">Analytics</button>
+        </nav>
+        <div class="account-chip" id="account-chip"></div>
+        <button class="logout-button" id="logout-button" type="button">Sign out</button>
+      </div>
+    </header>
+
+    <main class="app-shell workspace">
+      <section class="student-view view active" id="student-view" aria-label="Student question answering">
+        <div class="student-grid">
+          <aside class="history-panel">
+            <div class="panel-title">
+              <p class="eyebrow">Student desk</p>
+              <h2>Chat History</h2>
+            </div>
+            <button class="primary-action full" id="new-chat" type="button">New Chat</button>
+            <div class="session-list" id="session-list"></div>
+          </aside>
+
+          <section class="chat-panel">
+            <div class="chat-heading">
+              <div>
+                <p class="eyebrow">Student workspace</p>
+                <h2 id="active-session-title">Course Question Desk</h2>
+              </div>
+              <button class="icon-button" id="reset-chat" type="button" title="Reset conversation" aria-label="Reset conversation">
+                <svg viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 3-6.7M3 4v6h6" /></svg>
+              </button>
+            </div>
+            <div class="quick-topics" aria-label="Common CPT208 questions">
+              <button type="button" data-question="What are the CPT208 coursework due dates?">Deadlines</button>
+              <button type="button" data-question="What should we put in the poster?">Poster content</button>
+              <button type="button" data-question="Do I need backend? Should I deploy the system to a cloud server?">Backend</button>
+              <button type="button" data-question="Can I use AI to generate the voiceover?">Voiceover</button>
+            </div>
+            <div class="chat-log" id="chat-log" aria-live="polite"></div>
+            <form class="ask-form" id="ask-form">
+              <input id="question-input" name="question" autocomplete="off" placeholder="Type a question about CPT208 coursework, poster, portfolio, video, attendance..." />
+              <button type="submit">Ask</button>
+            </form>
+          </section>
+
+          <aside class="sources-panel">
+            <div class="panel-title">
+              <p class="eyebrow">References</p>
+              <h2>Citation Sources</h2>
+            </div>
+            <div class="source-list" id="source-list"></div>
+          </aside>
+        </div>
+      </section>
+
+      <section class="teacher-view view" id="teacher-view" aria-label="Teacher knowledge management">
+        <section class="stats-panel">
+          <div class="metric-card">
+            <span>Total Questions</span>
+            <strong id="metric-total-questions">0</strong>
+            <small>Student inquiry records</small>
+          </div>
+          <div class="metric-card">
+            <span>Unanswered</span>
+            <strong id="metric-unanswered">0</strong>
+            <small>Low-confidence or no match</small>
+          </div>
+          <div class="metric-card">
+            <span>Approved QA</span>
+            <strong id="metric-approved">0</strong>
+            <small>Visible to students</small>
+          </div>
+          <div class="metric-card">
+            <span>Draft QA</span>
+            <strong id="metric-draft">0</strong>
+            <small>Needs teacher review</small>
+          </div>
+        </section>
+
+        <section class="integration-panel">
+          <div class="panel-title">
+            <p class="eyebrow">API readiness</p>
+            <h3>RAG Integration</h3>
+          </div>
+          <div class="integration-grid">
+            <div>
+              <span>Database</span>
+              <strong id="integration-database">local-json</strong>
+            </div>
+            <div>
+              <span>OpenAI API</span>
+              <strong id="integration-openai">Not configured</strong>
+            </div>
+            <div>
+              <span>Pinecone</span>
+              <strong id="integration-pinecone">Not configured</strong>
+            </div>
+            <div>
+              <span>Retrieval</span>
+              <strong id="integration-retrieval">local-json</strong>
+            </div>
+            <div>
+              <span>Answer mode</span>
+              <strong id="integration-answer">extractive</strong>
+            </div>
+          </div>
+          <p id="integration-note">Remote API keys are not set yet. The system is using the local approved knowledge base as a safe fallback.</p>
+        </section>
+
+        <section class="inquiry-panel">
+          <div class="inquiry-header">
+            <div>
+              <p class="eyebrow">Student questions</p>
+              <h3>Inquiry Review</h3>
+            </div>
+            <div class="toolbar-actions">
+              <button id="toggle-inquiry-view" class="secondary-action" type="button">Show Resolved</button>
+              <button id="export-logs" type="button">Export CSV</button>
+              <button id="clear-logs" class="secondary-action" type="button">Mark All as Seen</button>
+            </div>
+          </div>
+          <div class="inquiry-list" id="inquiry-list"></div>
+        </section>
+
+        <section class="teacher-analytics-row">
+          <section class="mini-dashboard">
+            <div class="panel-title">
+              <p class="eyebrow">Student demand</p>
+              <h3>Frequently Asked</h3>
+            </div>
+            <div id="teacher-frequency-list" class="rank-list"></div>
+          </section>
+          <section class="mini-dashboard">
+            <div class="panel-title">
+              <p class="eyebrow">Categories</p>
+              <h3>Question Breakdown</h3>
+            </div>
+            <div id="teacher-category-bars" class="bar-list"></div>
+          </section>
+        </section>
+
+        <section class="teacher-toolbar">
+          <div>
+            <p class="eyebrow">Teacher workspace</p>
+            <h2>Knowledge Studio</h2>
+          </div>
+          <div class="toolbar-actions">
+            <button id="export-json" type="button">Export JSON</button>
+            <label class="file-button">
+              Import JSON
+              <input id="import-json" type="file" accept="application/json" />
+            </label>
+          </div>
+        </section>
+
+        <section class="activity-panel">
+          <div class="panel-title">
+            <p class="eyebrow">Audit trail</p>
+            <h3>Knowledge Activity</h3>
+          </div>
+          <div class="activity-list" id="qa-history-list"></div>
+        </section>
+
+        <section class="ingest-panel">
+          <div class="panel-title">
+            <div>
+              <p class="eyebrow">Source ingestion</p>
+              <h3>Upload PDF, Image, or TXT</h3>
+            </div>
+            <small>Generate draft QA entries from uploaded source material.</small>
+          </div>
+          <div class="ingest-grid">
+            <label class="ingest-dropzone">
+              <span>Choose source files</span>
+              <small>Accepted: PDF, TXT, PNG, JPG, JPEG, WEBP</small>
+              <input id="ingest-files" type="file" accept=".pdf,.txt,image/png,image/jpeg,image/webp" multiple />
+            </label>
+            <label>
+              Paste extracted text
+              <textarea id="ingest-text" rows="7" placeholder="Paste OCR text, email Q&A text, or copied PDF text here..."></textarea>
+            </label>
+          </div>
+          <div class="ingest-actions">
+            <button id="ingest-generate" type="button">Generate Draft QA</button>
+            <button id="ingest-clear" class="secondary-action" type="button">Clear Source</button>
+          </div>
+          <div class="ingest-note">
+            <strong>Static prototype note:</strong>
+            <span>TXT is fully supported. PDF extraction works best for text-based PDFs. Image OCR is not reliable in this offline static version, so image uploads may require pasted OCR text or a backend OCR service.</span>
+          </div>
+          <div class="ingest-feedback" id="ingest-feedback">No source processed yet.</div>
+        </section>
+
+        <section class="teacher-grid">
+          <form class="qa-editor" id="qa-editor">
+            <h3 id="editor-title">Add Course Answer</h3>
+            <input id="qa-id" type="hidden" />
+            <label>
+              Question
+              <textarea id="qa-question" required rows="3"></textarea>
+            </label>
+            <label>
+              Answer
+              <textarea id="qa-answer" required rows="7"></textarea>
+            </label>
+            <div class="form-row">
+              <label>
+                Status
+                <select id="qa-status">
+                  <option value="approved">approved</option>
+                  <option value="draft">draft</option>
+                  <option value="archived">archived</option>
+                </select>
+              </label>
+              <label>
+                Source
+                <input id="qa-source" value="teacher" />
+              </label>
+            </div>
+            <label>
+              Tags
+              <input id="qa-tags" placeholder="poster, ai-policy, portfolio" />
+            </label>
+            <label>
+              Source document
+              <input id="qa-doc" placeholder="ALL_QA_information.pdf" />
+            </label>
+            <div class="editor-actions">
+              <button type="submit">Save Answer</button>
+              <button id="clear-editor" class="secondary" type="button">Clear</button>
+            </div>
+          </form>
+
+          <section class="qa-list-panel">
+            <div class="list-controls">
+              <input id="teacher-search" placeholder="Search question, answer, tag, source..." />
+              <select id="status-filter">
+                <option value="all">All statuses</option>
+                <option value="approved">Approved</option>
+                <option value="draft">Draft</option>
+                <option value="archived">Archived</option>
+              </select>
+            </div>
+            <div class="qa-list" id="qa-list"></div>
+          </section>
+        </section>
+
+        </section>
+
+      <section class="analytics-view view" id="analytics-view" aria-label="System analytics">
+        <section class="analytics-heading">
+          <p class="eyebrow">System dashboard</p>
+          <h2>Data Analysis</h2>
+          <p>Analytics below are generated only from locally recorded student inquiry logs and the current knowledge base.</p>
+        </section>
+
+        <section class="stats-panel">
+          <div class="metric-card">
+            <span>Total Queries</span>
+            <strong id="analytics-total">0</strong>
+            <small>Local inquiry logs only</small>
+          </div>
+          <div class="metric-card">
+            <span>Active Users</span>
+            <strong id="analytics-users">No data</strong>
+            <small>Registered local users</small>
+          </div>
+          <div class="metric-card">
+            <span>Answer Accuracy</span>
+            <strong id="analytics-accuracy">No data</strong>
+            <small>Based on recorded inquiry confidence</small>
+          </div>
+          <div class="metric-card">
+            <span>Review Queue</span>
+            <strong id="analytics-review">0</strong>
+            <small>Needs teacher action</small>
+          </div>
+        </section>
+
+        <section class="analytics-grid">
+          <section class="mini-dashboard">
+            <div class="panel-title">
+              <p class="eyebrow">Hot topics</p>
+              <h3>Student Question Heatmap</h3>
+            </div>
+            <div id="hot-topic-bars" class="bar-list"></div>
+          </section>
+          <section class="mini-dashboard">
+            <div class="panel-title">
+              <p class="eyebrow">Top questions</p>
+              <h3>High Frequency Questions</h3>
+            </div>
+            <div id="top-question-list" class="rank-list"></div>
+          </section>
+          <section class="mini-dashboard">
+            <div class="panel-title">
+              <p class="eyebrow">Accuracy</p>
+              <h3>AI Answer Quality</h3>
+            </div>
+            <div id="accuracy-bars" class="bar-list"></div>
+          </section>
+          <section class="mini-dashboard">
+            <div class="panel-title">
+              <p class="eyebrow">Usage</p>
+              <h3>Daily Trend</h3>
+            </div>
+            <div id="usage-trend" class="trend-chart"></div>
+          </section>
+        </section>
+      </section>
+    </main>
+
+    <template id="message-template">
+      <article class="message">
+        <div class="message-role"></div>
+        <div class="message-body"></div>
+      </article>
+    </template>
+
+    <script src="./data/knowledge-base.js"></script>
+    <script src="./src/app.js"></script>
+  </body>
+</html>

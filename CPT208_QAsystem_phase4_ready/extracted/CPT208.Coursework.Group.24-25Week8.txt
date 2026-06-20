@@ -1,0 +1,252 @@
+
+
+--- PAGE 1 ---
+
+CPT208 Report (Group Work)
+Module Name: CPT208 Human-Centric Computing
+Module Leaders: Dr Yue Li and Dr Teng Ma
+Marks: 15% of the module mark
+Learning Outcomes Addressed
+A. Recognize the issues involved in designing computer systems for people including an
+understanding of the relevant legal, social, ethical and professional issues.
+B. Demonstrate an understanding of the basic formal methods and techniques for interaction
+design.
+C. Develop technical skills required for the implementation of interactive systems.
+D. Critically evaluate interactive systems.
+E. Demonstrate an understanding of the methods and issues involved in deploying interactive
+systems to meet business goals.
+Submission Format
+- Only one submission is needed from each group for group work.
+- Naming formats and examples:
+o CPT208_Group01_Poster.pdf
+o CPT208_Group01_Presentation.zip
+1
+
+
+--- PAGE 2 ---
+
+Project Theme – Generative AI in X
+Generative Artificial Intelligence (AI) has emerged as a transformative technology, capable of creating
+new content, designs, and solutions across a wide range of domains. From generating text, images,
+and music to designing complex systems and solving real-world problems, generative AI is reshaping
+how we interact with technology and approach creativity.
+In this group project, please explore the theme of “Generative AI in X,” where “X” represents a specific
+domain or application area that can benefit from the capabilities of generative AI. You will work
+collaboratively to design, prototype, implement, and evaluate a solution that leverages generative AI to
+address a human-centered problem.
+The goal of this project is to create a system or tool that not only demonstrates the technical capabilities
+of generative AI but also emphasizes its potential to enhance human experiences, solve practical
+challenges, and improve accessibility, creativity, or efficiency in a chosen domain. You are encouraged
+to think critically about the ethical implications, usability, and societal impact of your solutions, ensuring
+that the technology aligns with human-centric design principles.
+Here are some examples of “X” (Potential Domains for Generative AI Applications):
+1. Generative AI in Education: Developing AI-powered tools to create personalized learning
+materials, generate practice questions, or design interactive educational content tailored to
+individual student needs.
+2. Generative AI in Healthcare: Creating systems that generate appropriate motivations for people
+to keep healthy, assist in diagnosing conditions, or design personalized treatment plans.
+3. Generative AI in Cultural Heritage: Developing tools that promote, restore, and reimagine cultural
+heritage in innovative ways, making it more accessible and engaging for future generations.
+4. Generative AI in Creative Arts: Building tools that generate music, visual art, or storytelling
+content, enabling artists to explore new creative possibilities or collaborate with AI.
+5. Generative AI in Gaming: Designing AI systems that create dynamic game environments,
+characters, or narratives, enhancing player immersion and engagement.
+6. Generative AI in Accessibility: Developing solutions that generate alternative text for images,
+create sign language animations, or design accessible interfaces for individuals with disabilities.
+Through this project, you will gain hands-on experience in applying generative AI techniques, such as
+large language models (LLMs), generative adversarial networks (GANs), or variational autoencoders
+(VAEs), to real-world problems. By focusing on human-centric design, you are expected to create
+solutions that are not only technically innovative but also meaningful and impactful for end-users.
+2
+
+
+--- PAGE 3 ---
+
+Report – Group Presentation and Poster (15% of the module mark)
+This is a group coursework with a peer assessment of individual contributions.
+Due Date: 2025.04.07, Monday, Week 8
+Prepare a poster and deliver a 5-minute presentation for the Demo Day. These tasks are designed to
+showcase your understanding of generative AI, your project's design and implementation, and its
+human-centric impact. The presentation is your opportunity to communicate your project's goals,
+methodology, and outcomes to an audience of peers and instructors. It should be clear, concise, and
+engaging, highlighting the key aspects of your work.
+Your poster should include the following sections:
+0. Title and Team Information:
+• Include a clear and catchy title for your project.
+• List the names of all team members and the module information (CPT208).
+1. Introduction and Problem Statement:
+• Briefly describe the domain (X) and the specific problem or opportunity to address.
+• Explain why this problem is important and how it relates to human-centric computing.
+2. Design and Methodology:
+• Describe the target users and their key requirements.
+• Present the design alternatives that you considered and justify your choices.
+• Include diagrams or flowcharts to illustrate your design process and system architecture.
+3. Implementation and Outcomes:
+• Showcase key features of your prototype or solution.
+• Include visuals such as screenshots, generated outputs, or graphs to demonstrate your
+results.
+4. Evaluation and Impact:
+• Summarize how you evaluated your solution and the key findings.
+• Highlight the human-centric impact of your project (e.g., improved accessibility, enhanced
+user experience, or societal benefits).
+5. Conclusion and Future Work:
+• Briefly state the outcomes and limitations of your project.
+• Suggest potential future improvements or extensions.
+6. References
+• Include a reference list of the academic literature you cited.
+Tips for preparing the poster:
+• Use a clear and logical layout with sections that are easy to follow.
+• Keep text concise and use bullet points where possible.
+• Use high-quality visuals (e.g., images, charts, or diagrams) to make your poster engaging.
+• Ensure the poster is visually appealing with a consistent color scheme and font style.
+Tips for preparing the presentation:
+• Use visual aids (e.g., images, diagrams, or videos) to support your explanation.
+• Practice timing to ensure you stay within the time limit.
+• Speak clearly and confidently, and be prepared to answer questions from the audience.
+Note that presentation slides are not compulsory, but feel free to bring an iPad, laptop, or any
+other materials if you want to present any additional information (e.g., interface mockups, live
+demos, physical prototypes, etc.).
+3
+
+
+--- PAGE 4 ---
+
+Report Marking Criteria
+Needs
+Satisfactory (40-
+Criteria Excellent (70+) Good (60-69) Improvement
+59)
+(0-39)
+Clearly states
+project motivation,
+States project Vaguely states
+aims, and
+motivation and motivation and
+objectives; specifies
+aims; specifies aims; limited
+and studies the Fails to state
+target user group; specification of
+target user group; motivation or
+conducts some target user group;
+extensively aims; does not
+research on minimal research;
+Content and researches and specify target
+existing works; unclear iterative
+Delivery summarizes key user group;
+shows some design process;
+(30%) issues; lacks research;
+iterative design basic
+demonstrates an no evidence of
+process; good understanding of
+iterative design iterative design
+understanding of the project
+process; in-depth process.
+the project novelty, novelty,
+understanding of the
+contribution and contribution and
+project novelty,
+potential impact. potential impact.
+contribution and
+potential impact.
+Strong efforts in
+collecting design
+requirements;
+Collects design Limited collection Fails to collect
+reasonably large
+requirements; of design design
+sample size;
+acceptable sample requirements; requirements;
+proposes effective
+Task size; proposes small sample size; lacks design
+and novel design
+Fulfilment some design proposes generic solutions; no
+solutions; includes
+(30%) solutions; includes solutions; few prototypes; no
+various prototypes;
+a few prototypes; prototypes evaluation
+shows rich
+presents basic included; minimal results
+evaluation results of
+evaluation results. evaluation results. presented.
+existing design
+and/or proposed
+design solutions.
+Clear arguments
+with relevant points;
+Mostly clear Some clarity in
+well-paced Poorly
+arguments; arguments;
+presentation; organized
+presentation is presentation
+presentation and arguments;
+Clarity and generally well- pacing is
+poster are structured difficult to follow
+Organization paced; reasonably inconsistent;
+in a logical way, with presentation;
+(20%) clear structure and poster is
+very clear key poster is unclear
+key points; poster somewhat
+points; poster is and lacks visual
+is readable with readable but lacks
+clear, readable, and aids.
+some visual aids. effective visuals.
+uses suitable visual
+aids effectively.
+Unprepared for
+Well-prepared for questions;
+Prepared for Some preparation
+questions; provides provides vague
+questions; for questions;
+Answers to thoughtful and or incorrect
+provides adequate responses lack
+Questions responsive answers; responses;
+responses; depth; struggles
+(20%) handles questions unable to
+handles questions with some
+knowledgeably and handle
+reasonably well. questions.
+confidently. questions
+effectively.
+4
+
+
+--- PAGE 5 ---
+
+University Policy on Late Submissions
+If you submit coursework after the deadline, you will be penalized:
+• 5% of the total marks available for the assessment will be deducted from the assessment mark
+for each working day after the submission deadline, up to a maximum of 25%;
+• Coursework received more than five working days after the submission deadline will receive
+a mark of zero.
+University Policy on Academic Integrity
+The University aims to foster a learning environment which produces students who embrace academic
+integrity, understand that they must produce their own work, are able to acknowledge explicitly any
+material that has been included from other sources or legitimate collaboration, and to present their own
+findings, conclusions or data based on appropriate and ethical practice.
+The University will support you to understand the standards of academic integrity, while you are
+responsible for learning and upholding professional standards of research, writing, assessment, and
+ethics in your area of study. Violation of academic integrity comes in many forms, including but not
+limited to the following:
+• improper citation or referencing;
+• unauthorised collaboration with another person in the preparation and production of a submitted
+work;
+• copying directly from other persons without their knowledge as your own work;
+• submitting all or part of the same academic work for two or more modules without permission;
+• consciously representing another’s work or concept as your own without proper
+acknowledgment and citation of the sources;
+• altering data obtained by legitimate means or making up a portion or whole set of data and
+reporting them in your own assignment;
+• requesting another party to prepare all or part of an assignment (with or without payment) on
+your behalf.
+Any violation of academic integrity is a serious offence and is therefore subject to an appropriate
+penalty. According to the individual case and the seriousness of the offence, penalties applied will vary
+and may include one or a combination of the following:
+• a written warning;
+• a mark penalty or a zero mark for the assessment;
+• a zero mark for the module;
+• a note on student’s records;
+• suspension of studies;
+• termination of studies.
+In addition to the respective penalty imposed, you may also be given feedback on how to avoid further
+offence in future work.
+5
