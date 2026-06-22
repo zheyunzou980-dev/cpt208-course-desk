@@ -1083,6 +1083,6 @@ const server = createServer(async (req, res) => {
   }
 });
 
-server.listen(port, "0.0.0.0", () => {
+server.listen(port, "127.0.0.1", () => {
   console.log(`CPT208 Course Desk running at http://localhost:${port}`);
 });
